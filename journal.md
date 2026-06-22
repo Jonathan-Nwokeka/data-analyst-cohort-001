@@ -15,6 +15,7 @@
 4. Verified the availability of MS Excel, sheets, Power BI Desktop and Git.
 5. Set up a backend folder to create a development environment.
 6. Configured a local Repo connection to the folder path.
+7. Syncnchronised my workspace to the GitHub Repo.
 
 ### To Explore Further
 
