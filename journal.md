@@ -12,6 +12,7 @@
 1. I learnt how to use the framework of WHY, WHEN, HOW and WHERE to understand spreadsheet workbook, Excel Table, Sorting, filtering data table.
 2. I created an Excel workbook to keep individual worksheets in one place, I also adopted good naming convention.
 3. I worked with a bank transaction raw datasets where I created a data table to help keep data organised and ready for further analysis.
+4. The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products.
 
 ### To Explore Further
 
