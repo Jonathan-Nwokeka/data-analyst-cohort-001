@@ -9,7 +9,8 @@
 
 ### What I Did
 
-1. I created a spreadsheet workbook to help keep data sheets in one place following a good naming convention.
+1. I learnt how to use the framework of WHY, WHEN, HOW and WHERE to understand spreadsheet workbook, Excel Table, Sorting, filtering data table.
+2. I created an Excel workbook to keep individual worksheets in one place, I also adopted good naming convention.
 
 ### To Explore Further
 
