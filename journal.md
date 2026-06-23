@@ -1,21 +1,15 @@
 # Data Analyst Learning Journal
 
-> Last updated: 22 June 2026
+> Last updated: 23 June 2026
 
 ---
-## Day 1 — Set up the data analyst study repo
+## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
-**Phase:** Setup  
+**Phase:** Excel  
 
 ### What I Did
 
-1. Completed the following tasks as part of the work tools.
-2. Created a GitHub Repo with the name data-analyst-cohort-001.
-3. Cloned the Repo with Visual Studio Code and created folders in the Repo, namely notes, datasets, dashboards, sql, python, screenshots and portfolio.
-4. Verified the availability of MS Excel, sheets, Power BI Desktop and Git.
-5. Set up a backend folder to create a development environment.
-6. Configured a local Repo connection to the folder path.
-7. Syncnchronised my workspace to GitHub Repo to keep track of work progress.
+1. I created a spreadsheet workbook to help keep data sheets in one place following a good naming convention.
 
 ### To Explore Further
 
