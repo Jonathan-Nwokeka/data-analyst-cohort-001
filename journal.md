@@ -1,24 +1,23 @@
-# Data Analyst Learning Journal
+# Data Analyst Job-Ready Learning Journal
 
 > Last updated: 24 June 2026
 
 ---
-## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
-**Phase:** Excel  
+## Day 1 - Practice: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
 
 ### What I Did
 
-1. I learnt how to use the framework of WHY, WHEN, HOW and WHERE to understand spreadsheet workbook, Excel Table, Sorting, filtering data table.
-2. I created an Excel workbook to keep individual worksheets in one place, I also adopted good naming convention.
-3. I worked with a bank transaction raw datasets where I created a data table to help keep data organised and ready for further analysis.
-4. The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products.
-5. Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation.
-6. The total Transaction Amount was also tracked by using excel Sum function.
+1. I collected and organised data in workbook, created three worksheets to keep the raw dataset, Table to apply sorting visualise interesting data point
+2. I learnt how to use Excel workbook to structure data in an easy to comprehend way
+3. How to track Retail sales performance including stores are generating more sale revenue
+4. Recommended action to monitor why sales were not completed in a particular store location
 
 ### To Explore Further
 
-- [ ] Research on how MS Excel operates in windows and android
+- [ ] How to manipulate merged data in a column
 
 ---
 
