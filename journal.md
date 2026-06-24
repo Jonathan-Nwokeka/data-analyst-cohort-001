@@ -1,6 +1,6 @@
 # Data Analyst Learning Journal
 
-> Last updated: 23 June 2026
+> Last updated: 24 June 2026
 
 ---
 ## Day 1 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
@@ -14,10 +14,11 @@
 3. I worked with a bank transaction raw datasets where I created a data table to help keep data organised and ready for further analysis.
 4. The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products.
 5. Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation.
+6. The total Transaction Amount was also tracked by using excel Sum function.
 
 ### To Explore Further
 
-
+- [ ] Research on how MS Excel operates in windows and android
 
 ---
 
