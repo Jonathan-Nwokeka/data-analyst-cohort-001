@@ -16,8 +16,9 @@
 4. The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products
 5. Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation
 6. The total Transaction Amount was also tracked by using excel Sum function
-7. With Excel Table, data sorting and fildering can be done with easy
-8. `=SUM(TransactionAmounts)` is  safer than `=SUM(G2:G9) because named range is more readable even after a long time  and cell reference is not and cell reference breaks silently when a new row is inserted
+7. It is a best practice to make a copy of the raw dataset before editing and this helps to preserve the original Raw Transaction dataset. If the Raw transaction  data is edited directly and something goes wrong i will be stuck and will not see any evidence of the raw data
+8. With Excel Table, data sorting and fildering can be done with easy
+9. `=SUM(TransactionAmounts)` is  safer than `=SUM(G2:G9) because named range is more readable even after a long time  and cell reference is not and cell reference breaks silently when a new row is inserted
 
 ### To Explore Further
 
