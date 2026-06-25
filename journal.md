@@ -16,6 +16,7 @@
 4. The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products
 5. Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation
 6. The total Transaction Amount was also tracked by using excel Sum function
+7. With Excel Table, data sorting and fildering can be done with easy
 
 ### To Explore Further
 
