@@ -17,6 +17,7 @@
 5. Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation
 6. The total Transaction Amount was also tracked by using excel Sum function
 7. With Excel Table, data sorting and fildering can be done with easy
+8. `=SUM(TransactionAmounts)` is  safer than `=SUM(G2:G9) because named range is more readable even after a long time  and cell reference is not and cell reference breaks silently when a new row is inserted
 
 ### To Explore Further
 
