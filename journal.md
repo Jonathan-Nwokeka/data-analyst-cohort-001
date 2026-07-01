@@ -105,3 +105,37 @@ The key cells are the identifiers
 - The final results looks very organised
 
 ---
+
+## Day 2 — Analyze: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+1. learnt how to check and validate data for analysis
+2. learnt how to use Excel functions like SUMIF,COUNTIF,COUNTA and AVERAGEIF to solve business questions
+3. Based on what i discoverd from the delivery performance across the Hub locations , i will recommend the manager to follow up with the East Hub to resolve the cause of the delay
+4. Learnt how to communicate the insights from the analysis with plain English
+
+### To Explore Further
+
+
+
+---
+
+## Day 3 — Visualize: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+1. The line chart shows a 6 months Average wait time fall across the A&E and Orthopaedric department
+2. learnt how to create a chart to visualize the insights from the our data
+3. How to remove clutters and adopted name that will describe the data for easy understanding
+4. Learnt how to format charts
+
+### To Explore Further
+
+
+
+---
