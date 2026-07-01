@@ -4,194 +4,104 @@
 
 ---
 
-## Day 1 — Set up your data analyst portfolio
-
-**Phase:** Setup
-
-### What I Did
-
-1. completed the following tasks as part of the work tools
-2. Created a GitHub Repo with the name data-analyst-cohort-001
-3. Cloned the Repo with Visual Studio Code and created folders in the Repo, namely notes, datasets, dashboards, sql, python, screenshots and portfolio
-4. Verified the availability of MS Excel, sheets, Power BI Desktop and Git
-5. Set up a backend folder to create a development environment
-6. Configured a local Repo connection to the folder path
-7. Syncnchronised my workspace to GitHub Repo to keep track of work progress
-
-### To Explore Further
-
-
-
----
-
-## Day 2 — Learn: Workbook setup, tables, sorting, filtering, and named ranges
+## Day 1 — Practice: Workbook setup, tables, sorting, filtering, and named ranges
 
 **Phase:** Excel
 
 ### What I Did
 
-1. I learnt how to use the framework of WHY, WHEN, HOW and WHERE to understand spreadsheet workbook, Excel Table, Sorting, filtering data table
-2. I created an Excel workbook to keep individual worksheets in one place, I also adopted good naming convention
-3. I worked with a bank transaction raw datasets where I created a data table to help keep data organised and ready for further analysis
-4. The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products
-5. Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation
-6. The total Transaction Amount was also tracked by using excel Sum function
-7. It is a best practice to make a copy of the raw dataset before editing and this helps to preserve the original Raw Transaction dataset. If the Raw transaction  data is edited directly and something goes wrong i will be stuck and will not see any evidence of the raw data
-8. With Excel Table, data sorting and fildering can be done with easy
-9. `=SUM(TransactionAmounts)` is  safer than `=SUM(G2:G9) because named range is more readable even after a long time  and cell reference is not and cell reference breaks silently when a new row is inserted
+1. Collected and organised data in workbook, created three worksheets to keep the raw dataset, Table to apply sort and visualise interesting data points
+2. Used Excel workbook to structure data in an easy to comprehend way
+3. How to track Retail sales performance including stores generating more sales revenue
+4. Recommended action to monitor why sales were not completed in a particular store location
 
 ### To Explore Further
 
-- [ ] Research on how MS Excel operates in windows and android
+- [x] How to manipulate merged data in a column
 
 ### My Practice Work
 
 ---
 <!-- framework:solve -->
 
-## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-07-01 | **Method:** SOLVE
+## Practice: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-30 | **Method:** SOLVE
 
-> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+> **Scenario:** Sector: Retail
+> 
+> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
 
 ### S — Split the problem
-- In this task, I was asked to create an Excel workbook, worksheets giving names that describes their contents 
-such as RawTransaction,TransactionTable,Tracker,Notes and tow named ranges. the Transaction data was transformed into a table.
-The TransactionAmout column was further filtered in descending order showing the highest amount to the lowest .
-Raw data should not be edited directly to help keep and preserve the original data for reference purposes 
-Excel table enables data sorting and filtering to be possible
-Sorting is used to arrange data values in an orderly manner, either in ascending or descending order, while filtering is used to show data values that meet a certain condition.
-named ranges is used to reference a data range and when a formula is applied, it does not break up
+- In this task, I built an Excel workbook, worksheets, created table and named a range of cells
 
-- I started from RawTransaction dataset and created a worksheet
+- I started from a copy of the raw Transaction dataset, Tracker
 
-- The finished workbook looks very organized with worksheets ready for the next task
+- The finished work looks very organised, the RawTransaction data, the Tracker and the Notes all kept in one place
 
 ### O — Observe the data
-From the workbook file, i can see the following sheets, the RawTransactions,Tracker and Notes. I also noticed from the table columns that we have TxnID,Date,Branch,CustomerType,Products and Status containing 8 rows of Bank transactions covering  a one-week record across three different branches
+I observed the workbook has name week-01-Branch-Transaction  and has three different worksheets. The dataset has 7 columns and 8 rows.
+The dataset contains Bank transaction activities of customers in a week.
 
 ### V — Verify your logic
-- I will use the resources to check if the formulas or the features are correct
+- I will apply it to a smaller and known value
 
-- I got the right answers when I tested with a known value
+- I expect to see the correct answer
 
-- to revisit
+- Formula will break if there are blank cells, wrong data types
 
 ### E — Evolve the solution
-- I will click the Excel application to open it, then click the file to open either a saved workbook file or open a new one . To write write a formula, i will start equal sign = followed by the name of the formula. For example, =AVERAGE (A1:A10) this will give the value of the Average . Named range , this is done by selecting the desired range and the name box at the upper right , a name will be given
+- I will start by opening the excel application, open the workbook containing the desired worksheet. Will make sure I'm working with the correct data to answer the question.
+Makes a copy of the raw datasets .Inspect to understand what the data is all about.
 
-- =SUMIF(TransactionTable[Status] ''Delivered'',TransactionTable[Value])
-=SUM(TransactionTable[Value])
-=AVERAGE(PayRoll[Salary])
-=PROPER(B2)
-=TRIM(A2)
+- I will transform the dataset into a table, sort numeric data values to discover interesting data point like the highest transaction amount. All done in excel.
 
-- Will document every step of the way, including the functions and formulas
+- I will apply named ranges and document all the transformation activities and changes to make it reusable
 
 
 ---
 <!-- framework:five-how -->
 
-## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-07-01 | **Method:** 5-HOW
+## Practice: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-06-30 | **Method:** 5-HOW
 
-> **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
+> **Scenario:** Sector: Retail
+> 
+> Scenario: A supermarket chain has exported this week's product sales across four city branches. Your job: build the same structured workbook you built for the bank — raw sheet untouched, a named Table in Tracker, sorted by Revenue, filtered to show only Returned and Pending rows.
 
 ### Write it — code the solution
-- I opened the workbook, created a copy from the RawData, then located the 
-column that contains the specific data that will help answer the question
+- I collected the data, cleaned to fix all data quality issues and applied a validation techniques
 
-- Used the SUM formula
-=SUM(TransactionsTable[Amount])
+- I used this formula to calculate the sum of SalesRevenue 
+=SUM(SalesRevenue)
 
-- the Amount named range
+- All the SalesRevenue were used to calculate the sum of SalesRevenue
 
 ### Explain it — pseudocode
-Cleaning and Validating the dataset by using the following formula =PROPER,=TRIM(),select the range and remove duplicate
-Apply the =TRIM(A2) on one cell, then drag the small squal down to fill
-Apply the SUM formula to answe the question
-the result will be formatted clearly
+Working in excel 
+Collected data organised in Order Table 
+Confirmed and validated that the data is from data quality issues and the table contains the products order
+I will transform the data into a table
+In order_value column, will filter to show order value greater than 100
+Grouped by country
 
 ### Compare it — analogy
-**My analogy:** An Excel workbook is used organize worksheets which contains tables
+**My analogy:** Giving a name to range of cells
 
-**Why it works:** The Database is where data is structured in a table with columns and rows
+**Why it works:** The named range can be used in a formula just like a SQL where as alias can be used to name a group of data
 
-**Where it breaks down:** The Database can store and handle a high volume of data, while an Excel workbook will start to break when the data size increases
+**Where it breaks down:** When the data size increases it could led a break down of systems
 
 ### Use it — job story
-**My role:** Junior Financial Analyst, working in E-commerce company
+**My role:** Financial analyst at e-commerce company
 
-**The problem:** Can you find a high priority branch transaction ?
+**The problem:** To help organise RawTransaction data in a workbook, worksheets, named ranges and to create table to filter and sort data in a Tracker
 
-I collected the RawTransaction datasets, created an Excel workbook, made a copy of the RawTransaction datasets to keep the original copy for further references. Created worksheets named Tracker and Notes. Within the Tracker,  table was created with a given name for easy reference. Named ranges was also created within columns. Thereafter, I now applied sorting to Transaction Amount in descending order and together with SUMIF function
+I collected the RawTransaction datasets, created a copy to Track transaction performance
 
 ### See it — expected output
-- In spreadsheet, datasets are organised in column and row structure. Columns runs from top to bottom vertically describing the attribute of data while Row runs from left to right representing individual records or observations 
-Key cells are unique identifiers like the ID columns which describes records that should not be repeated
+- The spreadsheet organised data in columns and rows where the column contains the table header and the rows represent the the individual records.
+The key cells are the identifiers
 
-- The results will look like this, 
-Sum of A2 multiplied by 1.1
-Sum of A3 multiplied by 1.1
-
-### Try it — Scenario 1
-> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
-> 
-> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
-
-- After collecting the data. In a copy of the datasets, I cleaned and validated the data,located the right columns to answer the question
-
-- The formula below will give the total sales value for the product category "Electronics"
-=SUMIF(Orders[product_category],"Electronics",Orders[order_value])
-
-- The result gives the total sales value for Electronics
-
-### Try it — Scenario 2
-> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
-> 
-> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
-
-- I will ensure I the correct table like the customer and order table. Then will I will study the tables to understand the various columns to identify the look column.
-I will give the lookup table name
-
-- =Lookup(A2,$A$2:$F$10,3,FALSE)
-A2 is the first cell that contains the customer_ID, $A$2:$F10 is the absolute reference for the range,3 is the position of the value I want to return customer_city and False
-will give the exact value
-
-- The customer city will be retrieved from the customer table to the order table
-
----
-
-## Day 3 — Analyze: Workbook setup, tables, sorting, filtering, and named ranges
-
-**Phase:** Excel
-
-### What I Did
-
-1. learnt how to check and validate data for analysis
-2. learnt how to use Excel functions like SUMIF,COUNTIF,COUNTA and AVERAGEIF to solve business questions
-3. Based on what i discoverd from the delivery performance across the Hub locations , i will recommend the manager to follow up with the East Hub to resolve the cause of the delay
-4. Learnt how to communicate the insights from the analysis with plain English
-
-### To Explore Further
-
-
-
----
-
-## Day 4 — Visualize: Workbook setup, tables, sorting, filtering, and named ranges
-
-**Phase:** Excel
-
-### What I Did
-
-1. The line chart shows a 6 months Average wait time fall across the A&E and Orthopaedric department
-2. learnt how to create a chart to visualize the insights from the our data
-3. How to remove clutters and adopted name that will describe the data for easy understanding
-4. Learnt how to format charts
-
-### To Explore Further
-
-
+- The final results looks very organised
 
 ---
