@@ -244,3 +244,20 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 
 
 ---
+
+## Day 5 — Review: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+- **Built:** Built an Excel workbook,workskeets to track Transaction performance ,documents findings in a Notes worksheet
+- **Applied:** Applied data quality cleaning skills and Excel formula to clean, validate and prepare data for further use
+- **Explained:** How practice will help to improve aquired skills
+- **Verified:** Test run the formula in a well known value to investigate if the formulas are correct
+
+### To Explore Further
+
+
+
+---
