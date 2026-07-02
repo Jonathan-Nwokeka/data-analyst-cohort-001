@@ -251,10 +251,11 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 
 ### What I Did
 
-- **Built:** Built an Excel workbook,workskeets to track Transaction performance ,documents findings in a Notes worksheet
-- **Applied:** Applied data quality cleaning skills and Excel formula to clean, validate and prepare data for further use
+- **Built:** Rebuilt the Excel workbook,workskeets to track Transaction performance ,documents findings in a Notes worksheet from scratch
+- **Applied:** Data quality cleaning skills and Excel formula to clean, validate and prepare data for further use
 - **Explained:** How practice will help to improve aquired skills
 - **Verified:** Test run the formula in a well known value to investigate if the formulas are correct
+- **Reflected:** On the project, the deliverables, the skills , the business domain
 
 ### To Explore Further
 
