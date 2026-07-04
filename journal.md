@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 2 July 2026
+> Last updated: 4 July 2026
 
 ---
 
@@ -25,7 +25,7 @@
 <!-- framework:solve -->
 
 ## Practice: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-06-30 | **Method:** SOLVE
+**Completed:** 2026-07-04 | **Method:** SOLVE
 
 > **Scenario:** Sector: Retail
 > 
@@ -39,23 +39,28 @@
 - The finished work looks very organised, the RawTransaction data, the Tracker and the Notes all kept in one place
 
 ### O — Observe the data
+- Was given a week's raw product sales dataset for a chain of supermarkets across four city branches and the business problem to help build an Excel workbook, to keep datasets structured and organised,  worksheets to keep track of product sales performance and to keep a change log Notes for reference. To transform a data list into a data table to enable sorting and filtering
+
+- To apply filtering to show transactions not yet completed. This helps to take corrective actions
+
+- A wrong naming convention could pose a misleading risk to the workbook. Saving the workbook in an supportive file format
+
 I observed the workbook has name week-01-Branch-Transaction  and has three different worksheets. The dataset has 7 columns and 8 rows.
 The dataset contains Bank transaction activities of customers in a week.
 
 ### V — Verify your logic
-- I will apply it to a smaller and known value
+- week-01-branch-transaction workbook and sales Tracker workbook to track the sales performance
 
-- I expect to see the correct answer
+- The formula was applied to a smaller value , it returned the right result
 
-- Formula will break if there are blank cells, wrong data types
+- The result will fail, if the data quality issues are not resolved
 
 ### E — Evolve the solution
-- I will start by opening the excel application, open the workbook containing the desired worksheet. Will make sure I'm working with the correct data to answer the question.
-Makes a copy of the raw datasets .Inspect to understand what the data is all about.
+- Built an Excel workbook to keep data organised in worksheets and optimise transaction performance tracked
 
-- I will transform the dataset into a table, sort numeric data values to discover interesting data point like the highest transaction amount. All done in excel.
+- Keeping  a well-organised change log will help to document all the data transformations for easy review
 
-- I will apply named ranges and document all the transformation activities and changes to make it reusable
+- The work progress and the screenshots of charts , data table will be saved in the journal
 
 
 ---
@@ -129,21 +134,5 @@ A2 is the first cell that contains the customer_ID, $A$2:$F10 is the absolute re
 will give the exact value
 
 - The customer city will be retrieved from the customer table to the order table
-
----
-
-## Day 2 — Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges
-
-**Phase:** Excel
-
-### What I Did
-
-- **Built:** README file to document project activities including the business objectives,the deliverables , the steps and the use of tools to solve business problems
-- **Applied:** Screenshots snippets to the project portfolio as proof to the completed projects
-- **Explained:** How writing down key bullet points from the business problem solved will help keep achievment for Resume build up
-
-### To Explore Further
-
-
 
 ---
