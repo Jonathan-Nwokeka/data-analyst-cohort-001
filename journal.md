@@ -136,3 +136,73 @@ will give the exact value
 - The customer city will be retrieved from the customer table to the order table
 
 ---
+
+## Day 2 — Portfolio proof: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+- **Built:** README file to document project activities including the business objectives,the deliverables , the steps and the use of tools to solve business problems
+- **Applied:** Screenshots snippets to the project portfolio as proof to the completed projects
+- **Explained:** How writing down key bullet points from the business problem solved will help keep achievment for Resume build up
+
+### To Explore Further
+
+
+
+---
+
+## Day 3 — Review: Workbook setup, tables, sorting, filtering, and named ranges
+
+**Phase:** Excel
+
+### What I Did
+
+- **Built:** Rebuilt the Excel workbook,workskeets to track Transaction performance ,documents findings in a Notes worksheet from scratch
+- **Applied:** Data quality cleaning skills and Excel formula to clean, validate and prepare data for further use
+- **Explained:** How practice will help to improve aquired skills
+- **Verified:** Test run the formula in a well known value to investigate if the formulas are correct
+- **Reflected:** On the project, the deliverables, the skills , the business domain
+
+### To Explore Further
+
+
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Review: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-07-02 | **Method:** SOLVE
+
+> **Scenario:** Sector: Cross-industry
+> 
+> Scenario: It is end of Week 1. Before you start Week 2 (formulas: SUM, AVERAGE, COUNTIFS, VLOOKUP), you need to know exactly which Excel skill still feels shaky. Week 2 builds directly on this week's foundation — a gap now becomes a compounding problem later.
+
+### S — Split the problem
+- How can an export dataset be structured in Excel to track performance? To track performance in Excel,
+I will create a workbook and the necessary worksheet to achieve this task.
+
+- The business problem and the deliverable. These will help to understand  the stakeholders' expectations and how to use data to solve the problem.
+
+- Workbook structure helps to keep datasets well organised, which helps to approach the solution the right way
+
+---
+
+## Day 4 — Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+**Phase:** Excel
+
+### What I Did
+
+- **Applied:** Used Excel Vlookup function to look up Region managers for Sales rep from another table `=VLOOKUP([@Region],RegionManager,2,FALSE)`
+- **Applied:** The formula will breakup if cell range was used instead of the named range was .
+- **Why it matters:** Vlookup function is very help because it helps to search or look up values from another table even from different worksheet within the workbork
+
+### To Explore Further
+
+
+
+---
