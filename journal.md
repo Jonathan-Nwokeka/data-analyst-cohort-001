@@ -203,6 +203,6 @@ I will create a workbook and the necessary worksheet to achieve this task.
 
 ### To Explore Further
 
-
+- [x] XLOOKUP function
 
 ---
