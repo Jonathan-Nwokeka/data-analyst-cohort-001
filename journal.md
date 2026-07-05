@@ -523,7 +523,7 @@ I will create a workbook and the necessary worksheet to achieve this task.
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 13:33 |
+| Saved/updated | 05 Jul 2026, 13:34 |
 | Completed tasks | 10 |
 | Lesson complete | In progress |
 
@@ -534,7 +534,7 @@ I will create a workbook and the necessary worksheet to achieve this task.
 - **Why it matters:** Vlookup function is very help because it helps to search or look up values from another table even from different worksheet within the workbork
 - **Built:** XLOOKUP function is now more preferable because it uses an array of return to return the lookup value Which preserve function from breaking when a new column is added to the lookup range
 - **Applied:** Applied the Excel SUM function to calculate the total sales `=SUM(SalesTable[Sales])` this helps to keep track of weekly total sales performance
-- **Next proof:** Calculated the Average weekly sales performance with Excel Average function `=Average(SalesTable[Sales]) this helps to determine the performance of sign sales record
+- **Next proof:** Calculated the Average weekly sales performance with Excel Average function `=Average(SalesTable[Sales])` this helps to determine the performance of sign sales record
 
 ### To Explore Further
 
