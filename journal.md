@@ -40,8 +40,8 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 01 Jul 2026, 13:32 |
-| Completed tasks | 9 |
+| Saved/updated | 05 Jul 2026, 22:56 |
+| Completed tasks | 11 |
 | Lesson complete | Yes |
 
 ### What I Did
@@ -184,13 +184,13 @@ will give the exact value
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:12 |
+| Saved/updated | 05 Jul 2026, 23:09 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** Collected and organised data in workbook, created three worksheets to keep the raw dataset, Table to apply sort and visualise interesting data points
+- **Built:** Collected and built an Excel workbook, created three worksheets to keep a copy of the source data, track performance and document discoery and changes in a Note .
 - **Applied:** Used Excel workbook to structure data in an easy to comprehend way
 - **Explained:** How to track Retail sales performance including stores generating more sales revenue
 - **Verified:** Recommended action to monitor why sales were not completed in a particular store location
@@ -323,9 +323,9 @@ will give the exact value
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:12 |
-| Completed tasks | 5 |
-| Lesson complete | Yes |
+| Saved/updated | 01 Jul 2026, 19:54 |
+| Completed tasks | 4 |
+| Lesson complete | In progress |
 
 ### What I Did
 
@@ -409,8 +409,8 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:13 |
-| Completed tasks | 5 |
+| Saved/updated | 01 Jul 2026, 13:39 |
+| Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
@@ -432,8 +432,8 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 | --- | --- |
 | Lesson slug | `da-week-01-visualize` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:14 |
-| Completed tasks | 5 |
+| Saved/updated | 01 Jul 2026, 13:39 |
+| Completed tasks | 4 |
 | Lesson complete | Yes |
 
 ### What I Did
@@ -477,9 +477,9 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 | --- | --- |
 | Lesson slug | `da-week-01-review` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:15 |
-| Completed tasks | 5 |
-| Lesson complete | Yes |
+| Saved/updated | 02 Jul 2026, 20:46 |
+| Completed tasks | 4 |
+| Lesson complete | In progress |
 
 ### What I Did
 
@@ -523,7 +523,7 @@ I will create a workbook and the necessary worksheet to achieve this task.
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:18 |
+| Saved/updated | 05 Jul 2026, 14:40 |
 | Completed tasks | 11 |
 | Lesson complete | In progress |
 
@@ -535,7 +535,6 @@ I will create a workbook and the necessary worksheet to achieve this task.
 - **Built:** XLOOKUP function is now more preferable because it uses an array of return to return the lookup value Which preserve function from breaking when a new column is added to the lookup range
 - **Applied:** Applied the Excel SUM function to calculate the total sales `=SUM(SalesTable[Sales])` this helps to keep track of weekly total sales performance
 - **Next proof:** Calculated the Average weekly sales performance with Excel Average function `=Average(SalesTable[Sales])` this helps to determine the performance of sign sales record
-- **Note:** Completed an assigmnet during concept clinic `https://1drv.ms/x/c/f2cfe6da24aa9913/IQBBjKnW_7jATrIsB6TmpNemAQZ32blLDObr2FNBroul4RU?e=JKYe1A`
 
 ### To Explore Further
 
