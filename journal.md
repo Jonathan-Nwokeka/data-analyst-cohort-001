@@ -670,3 +670,28 @@ then apply the excel function to answer the question
 - The city for each customer who made an order was returned, and this helped to answer the question
 
 ---
+
+### Lesson 2: Practice: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-practice` |
+| Phase | Excel |
+| Saved/updated | 06 Jul 2026, 21:04 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** Built Excel workbook to keep StudentDataSource, StudentData, StudentContacts and Notes in the worksheets
+- **Applied:** `https://1drv.ms/x/c/f2cfe6da24aa9913/IQBOaKIP7DGYTqI8qaB-KFtNAWbpQsVbzt9m8qloabOkYGM?e=YTkPay`
+- **Why it matters:** Profiled the data structure to identify to fix data quality issues including formatting the data type to reflect the column value
+- **Applied:** Calculated the Average student's score for the three different subjects and applied IF nested function to assign grade to the score group
+- **Reflected:** Determined the number of students who passed all the three courses with COUNTIFS function
+- **Applied:** Applied XLOOKUP function to search for the Email address of students from a different worksheet student contacts
+
+### To Explore Further
+
+
+
+---
