@@ -523,9 +523,9 @@ I will create a workbook and the necessary worksheet to achieve this task.
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 11:25 |
-| Completed tasks | 11 |
-| Lesson complete | In progress |
+| Saved/updated | 06 Jul 2026, 16:45 |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -540,5 +540,133 @@ I will create a workbook and the necessary worksheet to achieve this task.
 ### To Explore Further
 
 - [x] XLOOKUP function
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-06 | **Method:** SOLVE
+
+> **Scenario:** Sector: Sales & Commission
+> 
+> Scenario: A sales director needs to calculate weekly commissions for 8 reps across four regions. Each rep earns a different rate depending on whether they hit, exceeded, or missed their target. She also needs to look up each rep's regional manager from a separate table — without typing the name manually.
+
+### S — Split the problem
+- We can break this question into smaller parts to enable us apply analytical thinking in solving it. IPOP framework will be used to achieve this:
+
+Input: A sales director needs to calculate weekly commissions for 8 reps across four regions
+Problem: Each rep earns a different rate depending on whether they hit, exceeded, or missed their target
+Output: She also needs to look up each rep's regional manager from a separate table
+Process: without typing the name manually
+
+- A sales director needs to calculate weekly commissions for 8 reps across four regions
+
+- Here, we have created the Excel workbook with the name . ` week-02-commission-calculator.xlsx, the worksheets, SalesDataRaw, SalesDataTable, Calculator, and the Notes`
+ The Sales data list was transformed to a table as SalesTable, this helps to further apply other relevant Excel functions to answer the questions
+The Calculator sheet was also created to perform the following calculations : 
+Total Sales `=SUM(SalesTable[Sales])`  this gives the value of the total product sales across the four Regions in a week
+Average Sales `=AVERAGE(SalesTable[Sales])` we saw the Average product Sales across the four Regions in a week
+Lookup Table as the RegionManager table was also created to enable us search for the Reps managers across the four Regions 
+XLOOKUP function was used to lookup the managers for the 8 Rep , given as : `=XLOOKUP([@Region],RegionManager[Region],RegionManager[Manager])`
+Xlookup function is now preferable to the Vlookup function . Xlookup does not break when the new record is added to the table 
+VLOOKUP function was also used to demonstrate how the Reps managers can be search from the RegionManager table.
+COUNTIFS function was used to determine the Reps who exceeded their targets and is given as `=COUNTIFS(SalesTable[Product],"SaaS",SalesTable[Sales],">"&SalesTable[Target]) `
+
+### O — Observe the data
+- I was given the RawSales dataset, which has 5 columns and 8 rows,
+The RegionManager and the question to solve
+
+- To create an Excel workbook, Sales Table, Calculator and Notes worksheets to keep work organised in one place
+To search for the Reps managers 
+To calculate the various weekly commissions for Reps according to their performance, whether  they hit, exceeded or missed their target
+Calculate the Total Sales and the Average Sales
+
+- Wrong naming style, clutter
+
+### V — Verify your logic
+- The sales column will be used to calculate the Rep's sales commission and the total sales across the four Regions
+
+- Validating and spot-checking the functions will help to ensure the correct result
+
+- Wrong Calculation, unclear naming conventions, ambiguity, wrong visualisation and wrong presentation can make the result fail the stakeholders expectaions
+
+### E — Evolve the solution
+- I will optimise the column label, the choice of visual and  remove clutter
+
+- The changelog, which documents all the transformations, will  help to review and understand the workbook
+
+- I will save the screenshot in the journal as evidence to acknowledge the work done
+
+
+---
+<!-- framework:five-how -->
+
+## Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-06 | **Method:** 5-HOW
+
+> **Scenario:** Sector: Sales & Commission
+> 
+> Scenario: A sales director needs to calculate weekly commissions for 8 reps across four regions. Each rep earns a different rate depending on whether they hit, exceeded, or missed their target. She also needs to look up each rep's regional manager from a separate table — without typing the name manually.
+
+### Write it — code the solution
+- The exact steps I took in Excel to complete the calculations include:
+Locating and opening the desired worksheet in the workbook
+
+- Opened the worksheet named Calculator to calculate the total sales across the four Regions by writing the SUM function in excel thus;
+`  =SUM(SalesTable[Sales])` This will give the desired result
+ same step was used to write this `=AVERAGE(SalesTable[Sales])`
+
+- The column named range Sales was used to complete the calculations
+
+### Explain it — pseudocode
+1) Started by creating the workbook week-02-commission-calculator
+2) The SalesData worksheet was also created to transform data list to a data table
+3) The Calculator worksheet was also created to calculate the Total sales using the Excel Sum function `=SUM(SalesTable[Sales])`
+Average sales was also calculated using the Average function `=AVERAGE(SalesTable[Sales])`
+4) Notes worksheet was created to document the changes and transformation
+
+### Compare it — analogy
+**My analogy:** By applying filter , the diplay will only show row or records that meet the criteria
+
+**Why it works:** Both Excel and SQL can perform tasks in the same way we can use ORDER BY keyword to keep data sorted either in ascending or descending order, The WHERE clause in SQL can be used to return results that meets certain conditions
+
+**Where it breaks down:** Sorting a large volume of data in excel may become very slow but SQL can handle this in few seconds
+
+### Use it — job story
+**My role:** Data Analyst at an e-commerce company
+
+**The problem:** To help find out which product categories exceeded 5,000 in sales this quarter, its needed before 9am standup
+
+I will start by locating the data table and column that answers the question 
+then apply the excel function to answer the question
+
+### See it — expected output
+- The spreadsheet has five columns with descriptive naming and 3 rows showing individual records
+
+- The final result looks very clean and easy to understand
+
+### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
+- I will open the Order Spreadsheet, then study the profile of the sheet by understanding the columns and rows to identify the columns that will help answer the question
+
+- I will write the SUMIF function `=SUMIF(OrderValue[product_Category], "Electronics")`
+
+- The result shows the total sum of Electronics sales order
+
+### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
+- In Excel, i will write the XLOOKUP function to lookup the customer cities from the customer table to be added to the order sheet by using the customer_Id ad the lookup value
+
+- `=XLOOKUP(customer_id,[customerTable],[customer_city]) `this will help to search and return the customer city to the order table
+
+- The city for each customer who made an order was returned, and this helped to answer the question
 
 ---
