@@ -1,6 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 6 July 2026
+> Last updated: 8 July 2026
+
+## Summary
+
+- Track: Data Analyst Job-Ready
+- Weeks with evidence: 3
+- Lesson entries captured: 11
+
+| Week | Evidence entries | Completed | Last updated |
+| --- | ---: | ---: | --- |
+| [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 05 Jul 2026, 23:09 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 3 | 08 Jul 2026, 21:38 |
 
 ---
 
@@ -32,7 +44,7 @@
 
 ---
 
-## Week 2: Week 1: Workbook setup, tables, sorting, filtering, and named r
+## Week 1: Workbook setup, tables, sorting, filtering, and named r
 
 ### Lesson 1: Learn: Workbook setup, tables, sorting, filtering, and named ranges
 
@@ -515,7 +527,7 @@ I will create a workbook and the necessary worksheet to achieve this task.
 
 ---
 
-## Week 3: Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
+## Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a
 
 ### Lesson 1: Learn: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
 
@@ -523,7 +535,7 @@ I will create a workbook and the necessary worksheet to achieve this task.
 | --- | --- |
 | Lesson slug | `da-week-02-learn` |
 | Phase | Excel |
-| Saved/updated | 06 Jul 2026, 16:45 |
+| Saved/updated | 08 Jul 2026, 21:18 |
 | Completed tasks | 12 |
 | Lesson complete | Yes |
 
@@ -689,6 +701,28 @@ then apply the excel function to answer the question
 - **Applied:** Calculated the Average student's score for the three different subjects and applied IF nested function to assign grade to the score group
 - **Reflected:** Determined the number of students who passed all the three courses with COUNTIFS function
 - **Applied:** Applied XLOOKUP function to search for the Email address of students from a different worksheet student contacts
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 3: Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 08 Jul 2026, 21:38 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Applied:** I applied data quality check operations to help fix Excel formula error to finalise the ETL processes
+- **Applied:** Documented all the 8 formula errors found and escalated 3 to the line manager for further directives and action
+- **Explained:** Cleaned file of the dataset was made available for the next use in the ETL phase
 
 ### To Explore Further
 
