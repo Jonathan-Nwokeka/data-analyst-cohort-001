@@ -6,13 +6,13 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 12
+- Lesson entries captured: 14
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 05 Jul 2026, 23:09 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 4 | 12 Jul 2026, 14:15 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 6 | 6 | 12 Jul 2026, 19:39 |
 
 ---
 
@@ -860,6 +860,53 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Explained:** Determined the property type that sells the fastes betweent the House and`=AVERAGEIF(PropertyTable[Type],"Flat",PropertyTable[DaysListed])`
 - **Verified:** Learnt and Calculated the estate agents who consistently sale abobe the listing price
 - **Reflected:** `=AVERAGEIF(PropertyTable[Agent],"Smith",PropertyTable[SaleRatio])
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 5: Visualize: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-visualize` |
+| Phase | Excel |
+| Saved/updated | 12 Jul 2026, 18:20 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Verified:** Cleaned and Validated the production line operations dataset to track performance across all production line
+- **Why it matters:** In 5 secods, someone like the Director of production will understand the Line E needs urgent attention -20% below daily Target
+- **Explained:** The red colour code for Line E will also help anyone quickly understand what the chart is communicating
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 12 Jul 2026, 19:39 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** Sales/Commission: *Built a commission calculator for 8 sales reps in Excel. Used nested IF to apply a three-tier commission rate (4%/8%/12% based on target achievement), COUNTIFS to segment SaaS vs Hardware performance, and XLOOKUP to auto-match regional managers. Total commission payout: calculated accurately without a single manually typed value.*
+- **Applied:** Real Estate: *Analysed 8 property listings across 3 London postcodes. Houses sold 2× faster than flats (16 vs 35 days average). Patel achieved the highest average sale-to-list ratio at 1.020. Used XLOOKUP to auto-link agent contact details — no manual typing.*
+- **Built:** Manufacturing: *Built a 5-line production performance dashboard for Friday plant review. Used nested IF to classify each line as Exceeded/Met/Near/Below. Line E flagged at 80% of daily target. Chart formatted with red/amber/green encoding so the plant director reads the status in under 10 seconds.*
+- **Applied:** Education: *Processed test scores for 8 students across 3 subjects. Used AVERAGE for per-student scores, COUNTIFS to identify 5 students passing all subjects, nested IF for A/B/C/F grade assignment, and XLOOKUP to retrieve contact emails. Identified 2 students requiring intervention before mock exams.*
+- **Verified:** E-commerce: *Audited a product catalogue with 8 rows and 8 data quality issues. Found and fixed #VALUE! errors from text in numeric fields, #DIV/0! from zero stock values, and blank mandatory fields. Wrapped all FinalPrice formulas in IFERROR to prevent report failures.*
+- **Applied:** Education: *Processed test scores for 8 students across 3 subjects. Used AVERAGE for per-student scores, COUNTIFS to identify 5 students passing all subjects, nested IF for A/B/C/F grade assignment, and XLOOKUP to retrieve contact emails. Identified 2 students requiring intervention before mock exams.*
 
 ### To Explore Further
 
