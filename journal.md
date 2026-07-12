@@ -1,18 +1,18 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 8 July 2026
+> Last updated: 12 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 3
-- Lesson entries captured: 11
+- Lesson entries captured: 12
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 05 Jul 2026, 23:09 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 3 | 3 | 08 Jul 2026, 21:38 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 4 | 4 | 12 Jul 2026, 14:15 |
 
 ---
 
@@ -714,7 +714,7 @@ then apply the excel function to answer the question
 | --- | --- |
 | Lesson slug | `da-week-02-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 08 Jul 2026, 21:38 |
+| Saved/updated | 09 Jul 2026, 13:20 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -723,6 +723,143 @@ then apply the excel function to answer the question
 - **Applied:** I applied data quality check operations to help fix Excel formula error to finalise the ETL processes
 - **Applied:** Documented all the 8 formula errors found and escalated 3 to the line manager for further directives and action
 - **Explained:** Cleaned file of the dataset was made available for the next use in the ETL phase
+
+### To Explore Further
+
+
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-09 | **Method:** SOLVE
+
+> **Scenario:** Sector: E-commerce
+> 
+> Scenario: An e-commerce operations manager has exported the product catalogue from the warehouse system. Before updating the website, you must find and fix every error — because a formula that returns #VALUE! in a price column will display nothing to customers, and a #DIV/0! in a margin calculation will crash the pricing report.
+
+### S — Split the problem
+- To understand the question better, i will break the questions into smaller part and will adopt IPOPS framework to achieve this 
+
+Input:  An e-commerce operations manager has exported the product catalogue from the warehouse system
+Problem: Before updating the website, you must find and fix every error 
+Output: A cleaned price column where all errors are fixed 
+Process: Identify the formula error message and apply IFERROR or convert number values given as text 
+Success: Calculations become possible; the ETL process will be completed
+
+- The e-commerce operations manager is the line manager
+
+- The RawCatalogue is organised within a weekly workbook as a worksheet; the CleanedCatalogue and the Notes worksheet help to document all the changes  and the transformation
+
+### O — Observe the data
+- The workbook for this task is the week-02-commssion.xlsx. Contains 7columns,  namely: ProductID, Name, Category, Price, Stock, Discount and FinalPrice Formula Result and 8 rows of records
+
+- The expectation in this task is to extract, transform and load the cleaned datasets
+
+- Unresolved data quality issues, wrong choice of charts could lead to wrong results
+
+### V — Verify your logic
+- The ProductCatalogue table and the number columns will help to answer the question
+
+- Will apply the formula to a smaller reference range. This will help spot-check to see if the formula is correct
+
+- The stakeholders' expectations will fail if the desired results are not achieved
+
+### E — Evolve the solution
+- I will optimise the structure of the workbook, the naming convention, documentation best practices
+
+- A change log will help to document all the transformations happening in the dataset
+
+- The workbook and important screenshot will be explained in the journal
+
+
+---
+<!-- framework:five-how -->
+
+## Clean and validate: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+**Completed:** 2026-07-09 | **Method:** 5-HOW
+
+> **Scenario:** Sector: E-commerce
+> 
+> Scenario: An e-commerce operations manager has exported the product catalogue from the warehouse system. Before updating the website, you must find and fix every error — because a formula that returns #VALUE! in a price column will display nothing to customers, and a #DIV/0! in a margin calculation will crash the pricing report.
+
+### Write it — code the solution
+- To fix the formula errors in Excel, including the `#Value! and DIV/0!` I created another copy of the Raw Product Catalogue to work with.
+I quickly identified the cause of these errors, for the #Value! i formatted the value from text to number
+
+- `=IFERROR(D3/F3"N/A")`  function to fix this
+
+- Affected cells includes; D3,E4,D6,F7 and E9
+
+### Explain it — pseudocode
+The cells that has the `#VALUE! and DIV/0!` error was spoted,fixed with the IFERROR formular, Find and Replace was also used to fix the cell containing text value instead of numeric value. All changes was documented
+
+### Compare it — analogy
+**My analogy:** Identifying the problem to fix
+
+**Why it works:** The IFFERROR and FIND and REPLACE
+
+**Where it breaks down:** This works well in a small to medium-sized dataset but will begin to be break if the dataset becomes voluminous
+
+### Use it — job story
+**My role:** Data Analyst at an e-commerce company
+
+**The problem:** To help fix and clean the Exported Product Catalogue file of errors related to the formula to enable the ETL process to be completed
+
+I downloaded the exported product catalogue file and opened it in an excel workbook . I also created a copy from the Rawdata source .
+The product table was profiled by studying the table structure, the column roles, the value type , the measurement scale and the actions needed to be completed . The causes of the error was also identified and document and this helped to fix the errors
+
+### See it — expected output
+- From the scenario given, to fix the #N/A formula error . we looked the cause . It shows the value was not found 
+`=IFERROR(XLOOKUP(...),'Not found')` is now written to fix this
+
+- The final result appeared well organised on the screen  and ready for the next transformations
+
+### Try it — Scenario 1
+> Finance has an Orders spreadsheet and wants to know: "What's the total sales value for the Electronics category only?"
+> 
+> Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
+
+- In excel worksheet of the desired workbook, i located the data table, quickly study the structure of the table such as the column name and number .
+The total number of rows . I identified and confirmed the column that will help to answer the question . i transformed the data list into a table and named it OrderTable. time to apply the IFSUM formula
+
+- =SUMIF(OrderTable[product_category],"Electronics")
+
+- The result shows the Sum of the Electronics product category
+
+### Try it — Scenario 2
+> Your manager needs customer cities added to the orders sheet: "Can you pull in each customer's city from the Customers tab, matched by customer_id?"
+> 
+> Write an XLOOKUP (or VLOOKUP) formula that looks up customer_id in the Customers sheet and returns the city column.
+
+- The exact steps taken in Excel, click by click to lookup customer city from the customer table and return the value to the Order table. Both the Order Table and the Customer Table was located from the same workbook, and the key identifiers and the customer city were identified. The tables were ready for the XLOOKUP calculation
+
+- Xlookup function was used to complete this task
+`=XLOOKUP([@CustomerID],CustomerTable[CustomerID],CustomerID[City])`
+
+- The Order table now shows the customer's city
+
+---
+
+### Lesson 4: Analyze: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-analyze` |
+| Phase | Excel |
+| Saved/updated | 12 Jul 2026, 14:15 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Applied:** Calculated the sales record for London based real estate property to track the properties that sold above listed prices . Excel COUNTIF formular was used to achieve this
+- **Applied:** `=COUNTIFS(PropertyTable[OverAskingPrice], TRUE)`
+- **Explained:** Determined the property type that sells the fastes betweent the House and`=AVERAGEIF(PropertyTable[Type],"Flat",PropertyTable[DaysListed])`
+- **Verified:** Learnt and Calculated the estate agents who consistently sale abobe the listing price
+- **Reflected:** `=AVERAGEIF(PropertyTable[Agent],"Smith",PropertyTable[SaleRatio])
 
 ### To Explore Further
 
