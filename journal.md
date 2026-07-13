@@ -1,18 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 12 July 2026
+> Last updated: 13 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
-- Weeks with evidence: 3
-- Lesson entries captured: 14
+- Weeks with evidence: 4
+- Lesson entries captured: 16
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 05 Jul 2026, 23:09 |
-| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 6 | 6 | 12 Jul 2026, 19:39 |
+| [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 0 | 13 Jul 2026, 23:58 |
 
 ---
 
@@ -907,6 +908,43 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Applied:** Education: *Processed test scores for 8 students across 3 subjects. Used AVERAGE for per-student scores, COUNTIFS to identify 5 students passing all subjects, nested IF for A/B/C/F grade assignment, and XLOOKUP to retrieve contact emails. Identified 2 students requiring intervention before mock exams.*
 - **Verified:** E-commerce: *Audited a product catalogue with 8 rows and 8 data quality issues. Found and fixed #VALUE! errors from text in numeric fields, #DIV/0! from zero stock values, and blank mandatory fields. Wrapped all FinalPrice formulas in IFERROR to prevent report failures.*
 - **Applied:** Education: *Processed test scores for 8 students across 3 subjects. Used AVERAGE for per-student scores, COUNTIFS to identify 5 students passing all subjects, nested IF for A/B/C/F grade assignment, and XLOOKUP to retrieve contact emails. Identified 2 students requiring intervention before mock exams.*
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 7: Review: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, and XLOOKUP
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-02-review` |
+| Phase | Excel |
+| Saved/updated | 13 Jul 2026, 16:17 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+---
+
+## Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns
+
+### Lesson 1: Learn: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-learn` |
+| Phase | Excel |
+| Saved/updated | 13 Jul 2026, 23:58 |
+| Completed tasks | 11 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** I initiated the ETL process by pulling the telecom dataset from the CRM system, profiled the data structure and mapped out the cleaing framework
+- **Built:** To clean the messy data. I preserved the original data source and created a copy to work with. i used excel formular to transform and fix the identified data quality issues like inconsistent text values, leading and trailing spaces, date formatting and so on
+- **Built:** To further reduce data quality issues from source, i created data validation as a check to ensure only data needed are allowed into the system thereby optimizing the time use
+- **Verified:** I documented all the data transformation steps before and after to enable data auditing
 
 ### To Explore Further
 
