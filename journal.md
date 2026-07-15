@@ -1,19 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 13 July 2026
+> Last updated: 15 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 16
+- Lesson entries captured: 17
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 05 Jul 2026, 23:09 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 1 | 0 | 13 Jul 2026, 23:58 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 2 | 15 Jul 2026, 13:15 |
 
 ---
 
@@ -31,11 +31,11 @@
 
 ### What I Did
 
-- **Built:** completed the following tasks as part of the work tools
+- **Note:** completed the following tasks as part of the work tools
 - **Built:** Created a GitHub Repo with the name data-analyst-cohort-001
 - **Built:** Cloned the Repo with Visual Studio Code and created folders in the Repo, namely notes, datasets, dashboards, sql, python, screenshots and portfolio
 - **Verified:** Verified the availability of MS Excel, sheets, Power BI Desktop and Git
-- **Reflected:** Set up a backend folder to create a development environment
+- **Note:** Set up a backend folder to create a development environment
 - **Applied:** Configured a local Repo connection to the folder path
 - **Note:** Syncnchronised my workspace to GitHub Repo to keep track of work progress
 
@@ -59,12 +59,12 @@
 
 ### What I Did
 
-- **Built:** I learnt how to use the framework of WHY, WHEN, HOW and WHERE to understand spreadsheet workbook, Excel Table, Sorting, filtering data table
+- **Note:** I learnt how to use the framework of WHY, WHEN, HOW and WHERE to understand spreadsheet workbook, Excel Table, Sorting, filtering data table
 - **Built:** I created an Excel workbook to keep individual worksheets in one place, I also adopted good naming convention
 - **Built:** I worked with a bank transaction raw datasets where I created a data table to help keep data organised and ready for further analysis
-- **Verified:** The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products
-- **Reflected:** Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation
-- **Next proof:** The total Transaction Amount was also tracked by using excel Sum function
+- **Note:** The manager was able to see a clean data table which helps to track transaction performance including sorting the the table to show the highest transaction amount and most sold products
+- **Note:** Applying named range in spreadsheet helps to keep formula and functions readable it also protects it from been broken during further data transformation
+- **Note:** The total Transaction Amount was also tracked by using excel Sum function
 - **Note:** It is a best practice to make a copy of the raw dataset before editing and this helps to preserve the original Raw Transaction dataset. If the Raw transaction  data is edited directly and something goes wrong i will be stuck and will not see any evidence of the raw data
 - **Note:** With Excel Table, data sorting and fildering can be done with easy
 - **Why it matters:** `=SUM(TransactionAmounts)` is  safer than `=SUM(G2:G9) because named range is more readable even after a long time  and cell reference is not and cell reference breaks silently when a new row is inserted
@@ -205,8 +205,8 @@ will give the exact value
 
 - **Built:** Collected and built an Excel workbook, created three worksheets to keep a copy of the source data, track performance and document discoery and changes in a Note .
 - **Applied:** Used Excel workbook to structure data in an easy to comprehend way
-- **Explained:** How to track Retail sales performance including stores generating more sales revenue
-- **Verified:** Recommended action to monitor why sales were not completed in a particular store location
+- **Note:** How to track Retail sales performance including stores generating more sales revenue
+- **Note:** Recommended action to monitor why sales were not completed in a particular store location
 
 ### To Explore Further
 
@@ -342,11 +342,11 @@ will give the exact value
 
 ### What I Did
 
-- **Built:** I learnt the importance of fixing data quality issues to achieve accurate results
+- **Note:** I learnt the importance of fixing data quality issues to achieve accurate results
 - **Applied:** I learnt and applied the five points data cleaning and validation checklist including to remove duplicates, data type formatting, fixing data outliers etc
 - **Applied:** I learnt and applied Microsoft Excel functions to clean inconsistent text value
 - **Built:** Learnt and created a change log to document all the changes that happened during data cleaning and validation activities
-- **Reflected:** Communicated to the line manager about a negative salary value before fixing it
+- **Note:** Communicated to the line manager about a negative salary value before fixing it
 
 ### To Explore Further
 
@@ -428,10 +428,10 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 
 ### What I Did
 
-- **Built:** learnt how to check and validate data for analysis
-- **Applied:** learnt how to use Excel functions like SUMIF,COUNTIF,COUNTA and AVERAGEIF to solve business questions
-- **Explained:** Based on what i discoverd from the delivery performance across the Hub locations , i will recommend the manager to follow up with the East Hub to resolve the cause of the delay
-- **Verified:** Learnt how to communicate the insights from the analysis with plain English
+- **Note:** learnt how to check and validate data for analysis
+- **Note:** learnt how to use Excel functions like SUMIF,COUNTIF,COUNTA and AVERAGEIF to solve business questions
+- **Note:** Based on what i discoverd from the delivery performance across the Hub locations , i will recommend the manager to follow up with the East Hub to resolve the cause of the delay
+- **Note:** Learnt how to communicate the insights from the analysis with plain English
 
 ### To Explore Further
 
@@ -451,10 +451,10 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 
 ### What I Did
 
-- **Built:** The line chart shows a 6 months Average wait time fall across the A&E and Orthopaedric department
-- **Applied:** learnt how to create a chart to visualize the insights from the our data
-- **Explained:** How to remove clutters and adopted name that will describe the data for easy understanding
-- **Verified:** Learnt how to format charts
+- **Note:** The line chart shows a 6 months Average wait time fall across the A&E and Orthopaedric department
+- **Note:** learnt how to create a chart to visualize the insights from the our data
+- **Note:** How to remove clutters and adopted name that will describe the data for easy understanding
+- **Note:** Learnt how to format charts
 
 ### To Explore Further
 
@@ -474,9 +474,9 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 
 ### What I Did
 
-- **Built:** README file to document project activities including the business objectives,the deliverables , the steps and the use of tools to solve business problems
-- **Applied:** Screenshots snippets to the project portfolio as proof to the completed projects
-- **Explained:** How writing down key bullet points from the business problem solved will help keep achievment for Resume build up
+- **Note:** README file to document project activities including the business objectives,the deliverables , the steps and the use of tools to solve business problems
+- **Note:** Screenshots snippets to the project portfolio as proof to the completed projects
+- **Note:** How writing down key bullet points from the business problem solved will help keep achievment for Resume build up
 
 ### To Explore Further
 
@@ -496,11 +496,11 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 
 ### What I Did
 
-- **Built:** Rebuilt the Excel workbook,workskeets to track Transaction performance ,documents findings in a Notes worksheet from scratch
-- **Applied:** Data quality cleaning skills and Excel formula to clean, validate and prepare data for further use
-- **Explained:** How practice will help to improve aquired skills
-- **Verified:** Test run the formula in a well known value to investigate if the formulas are correct
-- **Reflected:** On the project, the deliverables, the skills , the business domain
+- **Note:** Rebuilt the Excel workbook,workskeets to track Transaction performance ,documents findings in a Notes worksheet from scratch
+- **Note:** Data quality cleaning skills and Excel formula to clean, validate and prepare data for further use
+- **Note:** How practice will help to improve aquired skills
+- **Note:** Test run the formula in a well known value to investigate if the formulas are correct
+- **Note:** On the project, the deliverables, the skills , the business domain
 
 ### To Explore Further
 
@@ -547,7 +547,7 @@ I will create a workbook and the necessary worksheet to achieve this task.
 - **Why it matters:** Vlookup function is very help because it helps to search or look up values from another table even from different worksheet within the workbork
 - **Built:** XLOOKUP function is now more preferable because it uses an array of return to return the lookup value Which preserve function from breaking when a new column is added to the lookup range
 - **Applied:** Applied the Excel SUM function to calculate the total sales `=SUM(SalesTable[Sales])` this helps to keep track of weekly total sales performance
-- **Next proof:** Calculated the Average weekly sales performance with Excel Average function `=Average(SalesTable[Sales])` this helps to determine the performance of sign sales record
+- **Note:** Calculated the Average weekly sales performance with Excel Average function `=Average(SalesTable[Sales])` this helps to determine the performance of sign sales record
 - **Note:** Completed an assigment during Data foundation on classifying data columns based on their role, value type, measurement scale and action captured in the  concept clinic `https://1drv.ms/x/c/f2cfe6da24aa9913/IQBBjKnW_7jATrIsB6TmpNemAQZ32blLDObr2FNBroul4RU?e=JKYe1A`
 
 ### To Explore Further
@@ -697,10 +697,10 @@ then apply the excel function to answer the question
 ### What I Did
 
 - **Built:** Built Excel workbook to keep StudentDataSource, StudentData, StudentContacts and Notes in the worksheets
-- **Applied:** `https://1drv.ms/x/c/f2cfe6da24aa9913/IQBOaKIP7DGYTqI8qaB-KFtNAWbpQsVbzt9m8qloabOkYGM?e=YTkPay`
+- **Note:** `https://1drv.ms/x/c/f2cfe6da24aa9913/IQBOaKIP7DGYTqI8qaB-KFtNAWbpQsVbzt9m8qloabOkYGM?e=YTkPay`
 - **Why it matters:** Profiled the data structure to identify to fix data quality issues including formatting the data type to reflect the column value
 - **Applied:** Calculated the Average student's score for the three different subjects and applied IF nested function to assign grade to the score group
-- **Reflected:** Determined the number of students who passed all the three courses with COUNTIFS function
+- **Note:** Determined the number of students who passed all the three courses with COUNTIFS function
 - **Applied:** Applied XLOOKUP function to search for the Email address of students from a different worksheet student contacts
 
 ### To Explore Further
@@ -722,8 +722,8 @@ then apply the excel function to answer the question
 ### What I Did
 
 - **Applied:** I applied data quality check operations to help fix Excel formula error to finalise the ETL processes
-- **Applied:** Documented all the 8 formula errors found and escalated 3 to the line manager for further directives and action
-- **Explained:** Cleaned file of the dataset was made available for the next use in the ETL phase
+- **Note:** Documented all the 8 formula errors found and escalated 3 to the line manager for further directives and action
+- **Note:** Cleaned file of the dataset was made available for the next use in the ETL phase
 
 ### To Explore Further
 
@@ -857,10 +857,10 @@ The total number of rows . I identified and confirmed the column that will help 
 ### What I Did
 
 - **Applied:** Calculated the sales record for London based real estate property to track the properties that sold above listed prices . Excel COUNTIF formular was used to achieve this
-- **Applied:** `=COUNTIFS(PropertyTable[OverAskingPrice], TRUE)`
-- **Explained:** Determined the property type that sells the fastes betweent the House and`=AVERAGEIF(PropertyTable[Type],"Flat",PropertyTable[DaysListed])`
-- **Verified:** Learnt and Calculated the estate agents who consistently sale abobe the listing price
-- **Reflected:** `=AVERAGEIF(PropertyTable[Agent],"Smith",PropertyTable[SaleRatio])
+- **Note:** `=COUNTIFS(PropertyTable[OverAskingPrice], TRUE)`
+- **Note:** Determined the property type that sells the fastes betweent the House and`=AVERAGEIF(PropertyTable[Type],"Flat",PropertyTable[DaysListed])`
+- **Note:** Learnt and Calculated the estate agents who consistently sale abobe the listing price
+- **Note:** `=AVERAGEIF(PropertyTable[Agent],"Smith",PropertyTable[SaleRatio])
 
 ### To Explore Further
 
@@ -882,7 +882,7 @@ The total number of rows . I identified and confirmed the column that will help 
 
 - **Verified:** Cleaned and Validated the production line operations dataset to track performance across all production line
 - **Why it matters:** In 5 secods, someone like the Director of production will understand the Line E needs urgent attention -20% below daily Target
-- **Explained:** The red colour code for Line E will also help anyone quickly understand what the chart is communicating
+- **Note:** The red colour code for Line E will also help anyone quickly understand what the chart is communicating
 
 ### To Explore Further
 
@@ -935,16 +935,40 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-learn` |
 | Phase | Excel |
-| Saved/updated | 13 Jul 2026, 23:58 |
-| Completed tasks | 11 |
-| Lesson complete | In progress |
+| Saved/updated | 13 Jul 2026, 23:59 |
+| Completed tasks | 12 |
+| Lesson complete | Yes |
 
 ### What I Did
 
-- **Built:** I initiated the ETL process by pulling the telecom dataset from the CRM system, profiled the data structure and mapped out the cleaing framework
+- **Note:** I initiated the ETL process by pulling the telecom dataset from the CRM system, profiled the data structure and mapped out the cleaing framework
 - **Built:** To clean the messy data. I preserved the original data source and created a copy to work with. i used excel formular to transform and fix the identified data quality issues like inconsistent text values, leading and trailing spaces, date formatting and so on
 - **Built:** To further reduce data quality issues from source, i created data validation as a check to ensure only data needed are allowed into the system thereby optimizing the time use
-- **Verified:** I documented all the data transformation steps before and after to enable data auditing
+- **Note:** I documented all the data transformation steps before and after to enable data auditing
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 2: Practice: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-practice` |
+| Phase | Excel |
+| Saved/updated | 15 Jul 2026, 13:15 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Built:** I implemented a high level data profing to understand the fundraiser donor dataset, the structure, the data organisation , column lable and row count
+- **Built:** I built an ETL pipeline for the fundraising donors records from three different data sources into one cleaned data table
+- **Why it matters:** I fixed the data quality issues by removing the duplicates records in the identification column.
+- **Note:** All the inconsistent text values were transformed to the proper cases and the leading and trailing spaces resolved. Date value was normalised to the local date format
+- **Built:** I implemented a test run to check if the data was clean and ready for further analysis and this was confirmed
 
 ### To Explore Further
 
