@@ -11,7 +11,7 @@
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
-| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 05 Jul 2026, 23:09 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 15 Jul 2026, 21:26 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 2 | 15 Jul 2026, 13:15 |
 
@@ -197,7 +197,7 @@ will give the exact value
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 23:09 |
+| Saved/updated | 15 Jul 2026, 20:04 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -260,7 +260,7 @@ The dataset contains Bank transaction activities of customers in a week.
 <!-- framework:five-how -->
 
 ## Practice: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-07-01 | **Method:** 5-HOW
+**Completed:** 2026-07-15 | **Method:** 5-HOW
 
 > **Scenario:** Sector: Retail
 > 
@@ -287,7 +287,7 @@ Grouped by country
 
 **Why it works:** The named range can be used in a formula just like a SQL where as alias can be used to name a group of data
 
-**Where it breaks down:** When the data size increases it could led a break down of systems
+**Where it breaks down:** When the data size increases, it could lead to a break down of systems
 
 ### Use it — job story
 **My role:** Financial analyst at e-commerce company
@@ -307,7 +307,7 @@ The key cells are the identifiers
 > 
 > Write a SUMIF formula that sums `order_value` where `product_category` equals "Electronics".
 
-- After collecting the data. In a copy of the datasets, I cleaned and validated the data,located the right columns to answer the question
+- After collecting the data from the source, i made a copy of the dataset, cleaned and documented the changes in the Notes worksheet.
 
 - The formula below will give the total sales value for the product category "Electronics"
 =SUMIF(Orders[product_category],"Electronics",Orders[order_value])
@@ -336,7 +336,7 @@ will give the exact value
 | --- | --- |
 | Lesson slug | `da-week-01-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:12 |
+| Saved/updated | 15 Jul 2026, 20:22 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -358,7 +358,7 @@ will give the exact value
 <!-- framework:solve -->
 
 ## Clean and validate: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-07-01 | **Method:** SOLVE
+**Completed:** 2026-07-15 | **Method:** SOLVE
 
 > **Scenario:** Sector: HR / Payroll
 > 
@@ -372,6 +372,14 @@ will give the exact value
 - The  finished cleaned datasets looks consistent, cleaned, accurate, no missing value, proper capitalized with no errors
 
 ### O — Observe the data
+- The weekly workbook that contains the employee records and the payroll details 
+I profiled the table and identified data quality issues to be fixed. 
+The inconsistent employee names were cleaned, and the date format was transformed to the accurate format
+
+- A cleaned and validated employee table was expected after data cleaning. Proper case and date formatting were used to achieve this
+
+- The risk of duplicate salary payment and date wrongly formatted may become an issue of concern
+
 The Raw PayRoll dataset and a copy. We have the employee Id column as EmpID as the unique identifier, the Name column, Department column, StartDate column, Salary and the Status columns 
 
 The salary column contains a negative value that needed to be fix, the was a missing value in the Department column and the data type was formatted accordingly 
@@ -382,7 +390,7 @@ If data quality issues are fixed, it will produce wrong result
 
 - I expect to get results if the formula is written correctly
 
-- If the data quality issues are fixed
+- If the data quality issues are not resolved and fixed, this will fail the stakeholders' expectations and may lead to bad calculations
 
 ### E — Evolve the solution
 - I created an Excel workbook and set up 3 worksheets. Followed by a table and named ranges
@@ -422,7 +430,7 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 | --- | --- |
 | Lesson slug | `da-week-01-analyze` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 20:13 |
+| Saved/updated | 15 Jul 2026, 21:26 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -436,6 +444,32 @@ PROPER (A2) this will transform wrongly entered text value in cell A2 to the Pro
 ### To Explore Further
 
 
+
+### My Practice Work
+
+---
+<!-- framework:solve -->
+
+## Analyze: Workbook setup, tables, sorting, filtering, and named ranges
+**Completed:** 2026-07-15 | **Method:** SOLVE
+
+> **Scenario:** Sector: Logistics / Supply Chain
+> 
+> Scenario: A regional 3PL logistics company needs to understand delivery performance across their four hubs before the weekly operations meeting. The operations director wants three specific answers — and they want them in plain English, not just numbers.
+
+### S — Split the problem
+- By grouping the performance across the four hubs, the South Hub has the highest order value of 3,842
+
+- The operation Director, logistics company
+
+- I will have the Raw delivery table in a separate worksheet, the delivery calculation worksheet will be used to answer the business questions and the delivery note worksheet will help to document all the changes and transformations
+
+### O — Observe the data
+- I was given the raw dataset about the logistics and supply chain performance organised in a table. The columns show the data fields and has 8 order records
+
+- To clean and calculate the best-performing hub across the four regions, used the  Excel AVERAGEIF formula to complete the calculation
+
+- If the data quality issues are not resolved, it could lead to misleading and wrong result
 
 ---
 
