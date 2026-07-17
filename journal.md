@@ -1,19 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 15 July 2026
+> Last updated: 17 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 17
+- Lesson entries captured: 18
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
-| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 15 Jul 2026, 21:26 |
+| [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 2 | 2 | 15 Jul 2026, 13:15 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 3 | 3 | 17 Jul 2026, 19:14 |
 
 ---
 
@@ -53,7 +53,7 @@
 | --- | --- |
 | Lesson slug | `da-week-01-learn` |
 | Phase | Excel |
-| Saved/updated | 05 Jul 2026, 22:56 |
+| Saved/updated | 16 Jul 2026, 21:25 |
 | Completed tasks | 11 |
 | Lesson complete | Yes |
 
@@ -79,7 +79,7 @@
 <!-- framework:solve -->
 
 ## Learn: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-07-01 | **Method:** SOLVE
+**Completed:** 2026-07-16 | **Method:** SOLVE
 
 > **Scenario:** Scenario: A bank branch manager receives a raw transaction export and needs it turned into a usable tracker — a structured workbook with a raw-data sheet, a clean Table, sort and filter views, and named ranges that make later formulas readable.
 
@@ -92,30 +92,52 @@ Excel table enables data sorting and filtering to be possible
 Sorting is used to arrange data values in an orderly manner, either in ascending or descending order, while filtering is used to show data values that meet a certain condition.
 named ranges is used to reference a data range and when a formula is applied, it does not break up
 
-- I started from RawTransaction dataset and created a worksheet
+- The audience is the Bank Manager
+The export Transaction data contains the raw dataset
+The dataset will be transformed into a table
 
-- The finished workbook looks very organized with worksheets ready for the next task
+- I created the:
+1) week-01-bank-transaction.xlsx workbook
+2) RawTransaction worksheet to keep the original data source, never to be edited 
+3) Tracker worksheet to calculate and track transaction performance 
+4) TransactionNotes to document changes and data transformation
 
 ### O — Observe the data
+- In this scenario, I was given :
+1) A flat file that contains a raw bank transaction dataset
+2) Data columns and rows
+3) Business question to create a usable transaction tracker
+
+- I was expected to build:
+1) An Excel workbook with file extension .xlsx
+2) Three worksheets ( Raw Transaction, Tracker and Notes)
+3) A transaction table 
+4) Name Ranges
+5) Sort and data filter
+
+- Wrong naming choice could pose a risk to the workbook
+Wrong file type
+
 From the workbook file, i can see the following sheets, the RawTransactions,Tracker and Notes. I also noticed from the table columns that we have TxnID,Date,Branch,CustomerType,Products and Status containing 8 rows of Bank transactions covering  a one-week record across three different branches
 
 ### V — Verify your logic
-- I will use the resources to check if the formulas or the features are correct
+- 1) week-01-branch-transaction.xlsx 
+2) The Tracker will show the calculation for the branch with the highest transaction Amount
+3) The status column will help to understand the completed transactions and the transactions still requiring managers' attention
 
-- I got the right answers when I tested with a known value
+- COUNT formula on a small range will help spot-check whether the result is accurate.
 
-- to revisit
+- The result will fail to meet the stakeholders' needs if:
+1) The workbook was not created with the correct file extension 
+2) The workbook does not contain the Raw transaction data, Tracker and the Notes worksheet 
+3) Data Table is not created to help keep structured  and ready 
+4) Wrong formula is used to calculate the value of total transaction
 
 ### E — Evolve the solution
-- I will click the Excel application to open it, then click the file to open either a saved workbook file or open a new one . To write write a formula, i will start equal sign = followed by the name of the formula. For example, =AVERAGE (A1:A10) this will give the value of the Average . Named range , this is done by selecting the desired range and the name box at the upper right , a name will be given
+- I will optimise the table names to make them more readable
+I will also choose Labels that will describe the data
 
-- =SUMIF(TransactionTable[Status] ''Delivered'',TransactionTable[Value])
-=SUM(TransactionTable[Value])
-=AVERAGE(PayRoll[Salary])
-=PROPER(B2)
-=TRIM(A2)
-
-- Will document every step of the way, including the functions and formulas
+- Documenting the data profile and the change log in the TransactionsNote sheet will help someone review and understand the transformation progress
 
 
 ---
@@ -197,7 +219,7 @@ will give the exact value
 | --- | --- |
 | Lesson slug | `da-week-01-practice` |
 | Phase | Excel |
-| Saved/updated | 15 Jul 2026, 20:04 |
+| Saved/updated | 16 Jul 2026, 19:02 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -218,7 +240,7 @@ will give the exact value
 <!-- framework:solve -->
 
 ## Practice: Workbook setup, tables, sorting, filtering, and named ranges
-**Completed:** 2026-07-04 | **Method:** SOLVE
+**Completed:** 2026-07-16 | **Method:** SOLVE
 
 > **Scenario:** Sector: Retail
 > 
@@ -229,7 +251,11 @@ will give the exact value
 
 - I started from a copy of the raw Transaction dataset, Tracker
 
-- The finished work looks very organised, the RawTransaction data, the Tracker and the Notes all kept in one place
+- I created the:
+1) week-01-bank-transaction.xlsx workbook
+2) RawTransaction worksheet to keep the original data source, never to be edited 
+3) Tracker worksheet to calculate and track transaction performance 
+4) TransactionNotes to document changes and data transformation
 
 ### O — Observe the data
 - Was given a week's raw product sales dataset for a chain of supermarkets across four city branches and the business problem to help build an Excel workbook, to keep datasets structured and organised,  worksheets to keep track of product sales performance and to keep a change log Notes for reference. To transform a data list into a data table to enable sorting and filtering
@@ -1003,6 +1029,30 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Why it matters:** I fixed the data quality issues by removing the duplicates records in the identification column.
 - **Note:** All the inconsistent text values were transformed to the proper cases and the leading and trailing spaces resolved. Date value was normalised to the local date format
 - **Built:** I implemented a test run to check if the data was clean and ready for further analysis and this was confirmed
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 3: Clean and validate: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-clean-validate` |
+| Phase | Excel |
+| Saved/updated | 17 Jul 2026, 19:14 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Note:** Profiled and documented the Claimed data records to understand what the dataset is all about and identified the columns that will help to answer the business questions
+- **Built:** I created a Validation columns and applied Excel formula to check values that will pass or fail the validation.
+- **Built:** Created a Claim Note to document all the changes and the data quality issues that were encounterd during the cleaning activities
+- **Note:** I flagged columns that had no value to the supervisor for further directives
+- **Note:** I followed the data qaulity cleaning guide to clean record with inconsistent value type, date value entered as text was transformed to date value type
 
 ### To Explore Further
 
