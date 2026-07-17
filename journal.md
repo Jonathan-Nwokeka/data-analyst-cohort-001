@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 3 | 3 | 17 Jul 2026, 19:42 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 3 | 3 | 17 Jul 2026, 19:46 |
 
 ---
 
@@ -1042,7 +1042,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 17 Jul 2026, 19:42 |
+| Saved/updated | 17 Jul 2026, 19:46 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1054,6 +1054,7 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Note:** I flagged columns that had no value to the supervisor for further directives
 - **Note:** I followed the data qaulity cleaning guide to clean record with inconsistent value type, date value entered as text was transformed to date value type
 - **Built:** I wrote the nestedIf to validate and identify the records which or fail the validation test`=IF(OR(F2="Formaterror",G2<>"OK",H2="Missing",I2=FALSE),"Reject","Pass")`
+- **Built:** I created a date logic to check the logical order between the ClaimDate and the SettlementDate `=IF(C2>D2,"Claim after settlement","OK")`, this was helpful in cleaning the data
 
 ### To Explore Further
 
