@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 19 Jul 2026, 19:20 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 19 Jul 2026, 19:39 |
 
 ---
 
@@ -1068,7 +1068,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-analyze` |
 | Phase | Excel |
-| Saved/updated | 19 Jul 2026, 19:20 |
+| Saved/updated | 19 Jul 2026, 19:39 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
 
@@ -1080,6 +1080,8 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Built:** I profiled the dataset and created three worksheets to keep the raw dataset, the calculated worksheet and the Note worksheet to document all the changes made
 - **Note:** I transformed the data list into data table and named the relevant column ranges to keep data in good structure
 - **Applied:** I applied the Excel SUM formula to calculate the total Billed ` =SUM(TaxTable[Billed])` which returned £32,630,000 to answer the business question
+- **Explained:** I alaso calculate the total collected from the table , thus `=SUM(TaxTable[Collected])` to help answer the business question
+- **Note:** I calculate the Area with the lowest and Highest collected Amount
 
 ### To Explore Further
 
