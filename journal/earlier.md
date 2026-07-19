@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 19 Jul 2026, 19:08 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 3 | 19 Jul 2026, 19:11 |
 
 ---
 
@@ -1068,7 +1068,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-analyze` |
 | Phase | Excel |
-| Saved/updated | 19 Jul 2026, 19:08 |
+| Saved/updated | 19 Jul 2026, 19:11 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
 
@@ -1077,6 +1077,7 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Built:** I splitd the business questions into smaller parts and wrote it down clearly before getting the tools ready
 - **Built:** I started the ETL process by downloading the data file to my local machine and created three worksheets to keep the raw data, the calculated worksheet and the Note sworksheet to document athe profiling and data transformation process
 - **Note:** I completed data quality check across the dataset to ensure the data was clean and contains the relevant data to answer the questions
+- **Built:** I profiled the dataset and created three worksheets to keep the raw dataset, the calculated worksheet and the Note worksheet to document all the changes made
 
 ### To Explore Further
 
