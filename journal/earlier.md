@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 4 | 20 Jul 2026, 13:42 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 4 | 20 Jul 2026, 13:46 |
 
 ---
 
@@ -1095,7 +1095,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-visualize` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 13:42 |
+| Saved/updated | 20 Jul 2026, 13:46 |
 | Completed tasks | 5 |
 | Lesson complete | In progress |
 
@@ -1103,6 +1103,7 @@ The total number of rows . I identified and confirmed the column that will help 
 
 - **Note:** I learnt how to identify the best data visualisation type to communicate the insights to the Stakeholders
 - **Note:** I learnt how to remove clutters  from visual objects for easy understanding of data points
+- **Built:** I built cluster chart to visualise and compare between Actual and Target data points
 
 ### To Explore Further
 
