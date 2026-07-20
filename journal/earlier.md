@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 20 Jul 2026, 22:53 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 20 Jul 2026, 22:58 |
 
 ---
 
@@ -1119,7 +1119,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 22:53 |
+| Saved/updated | 20 Jul 2026, 22:58 |
 | Completed tasks | 2 |
 | Lesson complete | In progress |
 
@@ -1127,6 +1127,7 @@ The total number of rows . I identified and confirmed the column that will help 
 
 - **Applied:** I used Excel formulas to clean messy export product catalogue dataset by regularising the text values and fixing the missing data before loading the dataset into the warehouse system
 - **Built:** I created a cluster column chart in Excel to visualise the data points between a target and actual Bus Route performance.
+- **Note:** I drafted a clear a data informed action plan to help optimize bus route performance in routes below targetd performance
 
 ### To Explore Further
 
