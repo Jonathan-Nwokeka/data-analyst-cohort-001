@@ -1,19 +1,19 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 19 July 2026
+> Last updated: 20 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 19
+- Lesson entries captured: 20
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 4 | 4 | 19 Jul 2026, 19:47 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 4 | 20 Jul 2026, 13:34 |
 
 ---
 
@@ -1086,5 +1086,25 @@ The total number of rows . I identified and confirmed the column that will help 
 ### To Explore Further
 
 - [ ] EXCEL INDEX FORMULA
+
+---
+
+### Lesson 5: Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-visualize` |
+| Phase | Excel |
+| Saved/updated | 20 Jul 2026, 13:34 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I learnt how to identify the best data visualisation type to communicate the insights to the Stakeholders
+
+### To Explore Further
+
+
 
 ---
