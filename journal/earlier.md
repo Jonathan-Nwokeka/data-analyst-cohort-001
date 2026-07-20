@@ -1126,6 +1126,7 @@ The total number of rows . I identified and confirmed the column that will help 
 ### What I Did
 
 - **Applied:** I used Excel formulas to clean messy export product catalogue dataset by regularising the text values and fixing the missing data before loading the dataset into the warehouse system
+- **Built:** I created a cluster column chart in Excel to visualise the data points between a target and actual Bus Route performance.
 
 ### To Explore Further
 
