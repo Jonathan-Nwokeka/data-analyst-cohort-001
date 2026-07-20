@@ -6,14 +6,14 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 20
+- Lesson entries captured: 21
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 5 | 4 | 20 Jul 2026, 16:50 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 20 Jul 2026, 22:53 |
 
 ---
 
@@ -1095,9 +1095,9 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-visualize` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 16:50 |
+| Saved/updated | 20 Jul 2026, 21:14 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1106,6 +1106,26 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Built:** I built cluster chart to visualise and compare between Actual and Target data points
 - **Note:** I chose a chart title that will cleary describe and highlight the insights for easy understanding
 - **Note:** I drafted an action plan informed from the data points to optimise performace in the affected
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 20 Jul 2026, 22:53 |
+| Completed tasks | 2 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Applied:** I used Excel formulas to clean messy export product catalogue dataset by regularising the text values and fixing the missing data before loading the dataset into the warehouse system
 
 ### To Explore Further
 
