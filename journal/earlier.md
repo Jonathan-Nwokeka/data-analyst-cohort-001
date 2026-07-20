@@ -6,14 +6,14 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 4
-- Lesson entries captured: 21
+- Lesson entries captured: 22
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 6 | 5 | 20 Jul 2026, 23:05 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:28 |
 
 ---
 
@@ -1119,9 +1119,9 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 23:05 |
-| Completed tasks | 3 |
-| Lesson complete | In progress |
+| Saved/updated | 20 Jul 2026, 23:06 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1130,6 +1130,27 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Note:** I drafted a clear a data informed action plan to help optimize bus route performance in routes below targetd performance
 - **Built:** I Built Excel data validation workflow to standardise records from 3 source systems, enforcing format rules and eliminating duplicates across 5 industry datasets
 - **Note:** I documented all the stages  and transformation process to help keep an audit trail
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 7: Review: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-03-review` |
+| Phase | Excel |
+| Saved/updated | 20 Jul 2026, 23:28 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
+
+### What I Did
+
+- **Applied:** I Extracted a datasetset from product catalogue online system, transformed the messy data and loaded the cleaned data into the warehouse system
+- **Applied:** I applied Excel formula to calculate the aggregate summery of the operational performance across different industries of interest
 
 ### To Explore Further
 
