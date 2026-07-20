@@ -13,7 +13,7 @@
 | [Week 1: Day 1: Workspace Setup](#week-1-day-1-workspace-setup) | 1 | 1 | 24 Jun 2026, 10:03 |
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
-| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:30 |
+| [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
 
 ---
 
@@ -1143,7 +1143,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-03-review` |
 | Phase | Excel |
-| Saved/updated | 20 Jul 2026, 23:30 |
+| Saved/updated | 20 Jul 2026, 23:32 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
@@ -1152,6 +1152,7 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Applied:** I Extracted a datasetset from product catalogue online system, transformed the messy data and loaded the cleaned data into the warehouse system
 - **Applied:** I applied Excel formula to calculate the aggregate summery of the operational performance across different industries of interest
 - **Built:** I created a data visualisation to communicate the insights discoverd from the data points
+- **Note:** I documented all the data transformation processes and the recommended data inspred action plan
 
 ### To Explore Further
 
