@@ -1,12 +1,12 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 20 July 2026
+> Last updated: 21 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
-- Weeks with evidence: 4
-- Lesson entries captured: 22
+- Weeks with evidence: 5
+- Lesson entries captured: 23
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,6 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 21 Jul 2026, 19:14 |
 
 ---
 
@@ -1153,6 +1154,28 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Applied:** I applied Excel formula to calculate the aggregate summery of the operational performance across different industries of interest
 - **Built:** I created a data visualisation to communicate the insights discoverd from the data points
 - **Note:** I documented all the data transformation processes and the recommended data inspred action plan
+
+### To Explore Further
+
+
+
+---
+
+## Week 4: Pivot tables, pivot charts, slicers, and a one-page man
+
+### Lesson 1: Learn: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-learn` |
+| Phase | Excel |
+| Saved/updated | 21 Jul 2026, 19:14 |
+| Completed tasks | 0 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Note:** I learnt the concept of understanding business questions by breaking it down into small parts and applying analytical thinking to answer it
 
 ### To Explore Further
 
