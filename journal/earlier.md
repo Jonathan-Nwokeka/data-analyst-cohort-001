@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 21 July 2026
+> Last updated: 22 July 2026
 
 ## Summary
 
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 21 Jul 2026, 19:33 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 22 Jul 2026, 23:10 |
 
 ---
 
@@ -1169,14 +1169,13 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-learn` |
 | Phase | Excel |
-| Saved/updated | 21 Jul 2026, 19:33 |
-| Completed tasks | 2 |
+| Saved/updated | 22 Jul 2026, 23:10 |
+| Completed tasks | 10 |
 | Lesson complete | In progress |
 
 ### What I Did
 
-- **Note:** I learnt the concept of understanding business questions by breaking it down into small parts and applying analytical thinking to answer it
-- **Built:** I created a weekly series Excel workbook `week-04-hotel-report.xlsx` to keep Hotel BookingRawData, PivotAnalysis and Notes worksheets to keep data organised in one Excel File
+- **Note:** I extracted and prepared the Hotel booking data to help track the evenue by room type, occupancy by month, best and worst performing room category over 8 months
 
 ### To Explore Further
 
