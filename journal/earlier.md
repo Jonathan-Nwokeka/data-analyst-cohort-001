@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 22 Jul 2026, 23:29 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 22 Jul 2026, 23:34 |
 
 ---
 
@@ -1169,7 +1169,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-learn` |
 | Phase | Excel |
-| Saved/updated | 22 Jul 2026, 23:29 |
+| Saved/updated | 22 Jul 2026, 23:34 |
 | Completed tasks | 10 |
 | Lesson complete | In progress |
 
@@ -1178,6 +1178,7 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Note:** I extracted and prepared the Hotel booking data to help track the revenue by room type, occupancy by month, best and worst performing room category over 8 months
 - **Built:** I built a Pivotable to Summarise the Hotel revenue performace by room type over 8 months , the occupancy by month and room type, the highest and the lowest value generating room category
 - **Built:** I created an Excel pivotchart and used cluster bar to visualise the revenue performance by room type category for the 8 business months
+- **Built:** I built an interactive Dashboard to enable the business stakeholders perform self analysis by using the slicer botton to filter the best and the worst performing room category, the total revenue generated
 
 ### To Explore Further
 
