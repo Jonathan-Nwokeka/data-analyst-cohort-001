@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 24 Jul 2026, 17:57 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 2 | 24 Jul 2026, 21:04 |
 
 ---
 
@@ -1193,15 +1193,16 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-practice` |
 | Phase | Excel |
-| Saved/updated | 24 Jul 2026, 17:57 |
+| Saved/updated | 24 Jul 2026, 21:04 |
 | Completed tasks | 5 |
-| Lesson complete | In progress |
+| Lesson complete | Yes |
 
 ### What I Did
 
 - **Built:** I extracted sales export data and created RawSalesData, SalesData, SalesPivotTable and SalesPivotchart  worksheets in the ` week-04-Sales-report` Excel workbook
 - **Note:** I quickly cleaned and formatted the Units and the Revenue values to numeric value and transformed the the data list to Excel Table
 - **Built:** To answer the business questions, I created an Excel pivot table to calculate the monthly product category revenue, a slicer to choose region and a pivot line chart 📉 to show the revenue trend
+- **Built:** To further verify the sales summary, I wrote an Excel formula `=SUMIF(SalesTable[category],"Electronics",SalesTable[Revenue])` to confirm total revenue generated from Electronics category and `=SUM(SalesTable[Revenue]) ` for the total revenue across all categories
 
 ### To Explore Further
 
