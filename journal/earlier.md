@@ -1,12 +1,12 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 22 July 2026
+> Last updated: 24 July 2026
 
 ## Summary
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 23
+- Lesson entries captured: 24
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 22 Jul 2026, 23:38 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 24 Jul 2026, 17:36 |
 
 ---
 
@@ -1169,9 +1169,9 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-learn` |
 | Phase | Excel |
-| Saved/updated | 22 Jul 2026, 23:38 |
-| Completed tasks | 10 |
-| Lesson complete | In progress |
+| Saved/updated | 22 Jul 2026, 23:40 |
+| Completed tasks | 13 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1180,6 +1180,26 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Built:** I created an Excel pivotchart and used cluster bar to visualise the revenue performance by room type category for the 8 business months
 - **Built:** I built an interactive Dashboard to enable the business stakeholders perform self analysis by using the slicer botton to filter the best and the worst performing room category, the total revenue generated
 - **Note:** I recommended sales promotion campaign for the Q2 based on the insights from the hotel booking performace
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 2: Practice: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-practice` |
+| Phase | Excel |
+| Saved/updated | 24 Jul 2026, 17:36 |
+| Completed tasks | 5 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** I extracted sales export data and created RawSalesData, SalesData, SalesPivotTable and SalesPivotchart  worksheets in the ` week-04-Sales-report` Excel workbook
 
 ### To Explore Further
 
