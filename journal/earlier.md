@@ -10,7 +10,7 @@
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 27 Jul 2026, 16:36 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 27 Jul 2026, 16:37 |
 
 ---
 
@@ -22,13 +22,14 @@
 | --- | --- |
 | Lesson slug | `da-week-04-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 27 Jul 2026, 16:36 |
+| Saved/updated | 27 Jul 2026, 16:37 |
 | Completed tasks | 0 |
 | Lesson complete | In progress |
 
 ### What I Did
 
 - **Built:** I extracted the dataset from the source location into the Excel workbook and created three worksheets to keep the work structured and organised
+- **Applied:** I applied data profiling to understand the rows,columns and what the dataset is all about
 
 ### To Explore Further
 
