@@ -10,7 +10,7 @@
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 27 Jul 2026, 16:43 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 0 | 27 Jul 2026, 16:50 |
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- |
 | Lesson slug | `da-week-04-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 27 Jul 2026, 16:43 |
+| Saved/updated | 27 Jul 2026, 16:50 |
 | Completed tasks | 0 |
 | Lesson complete | In progress |
 
@@ -31,6 +31,8 @@
 - **Built:** I extracted the dataset from the source location into the Excel workbook and created three worksheets to keep the work structured and organised
 - **Applied:** I applied data profiling to understand the rows,columns and what the dataset is all about
 - **Applied:** I applied data cleaning techniques to fix the data inconsistency , the missing values and the negative value
+- **Built:** I created a data quality flag to tag the various data quality issues
+- **Applied:** After the data cleaning,  i applied a check to authenticate the total value
 
 ### To Explore Further
 
