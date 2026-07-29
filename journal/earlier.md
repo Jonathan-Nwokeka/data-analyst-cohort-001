@@ -10,7 +10,7 @@
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 1 | 29 Jul 2026, 20:42 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 1 | 1 | 29 Jul 2026, 20:43 |
 
 ---
 
@@ -22,7 +22,7 @@
 | --- | --- |
 | Lesson slug | `da-week-04-clean-validate` |
 | Phase | Excel |
-| Saved/updated | 29 Jul 2026, 20:42 |
+| Saved/updated | 29 Jul 2026, 20:43 |
 | Completed tasks | 5 |
 | Lesson complete | Yes |
 
