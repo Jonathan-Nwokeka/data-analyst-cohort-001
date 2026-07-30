@@ -10,7 +10,7 @@
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 30 Jul 2026, 22:08 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 2 | 1 | 30 Jul 2026, 22:14 |
 
 ---
 
@@ -46,13 +46,14 @@
 | --- | --- |
 | Lesson slug | `da-week-04-analyze` |
 | Phase | Excel |
-| Saved/updated | 30 Jul 2026, 22:08 |
+| Saved/updated | 30 Jul 2026, 22:14 |
 | Completed tasks | 2 |
 | Lesson complete | In progress |
 
 ### What I Did
 
 - **Built:** I extracted the digital media Article performance record from the digital media database into the Excel `week-04-workbook` and created 3 worksheet for the Raw data, PivotTable and Notes to keep work structured and oganised
+- **Why it matters:** I profiled the raw dataset to understand the business activities and conducted Data quality checks to detect and fix identied anomalies
 
 ### To Explore Further
 
