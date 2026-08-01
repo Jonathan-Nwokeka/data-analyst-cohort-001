@@ -1,6 +1,6 @@
 # Data Analyst Job-Ready Learning Journal
 
-> Last updated: 1 August 2026
+> Last updated: 2 August 2026
 
 ## Summary
 
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 5 | 4 | 01 Aug 2026, 23:58 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 5 | 4 | 02 Aug 2026, 00:02 |
 
 ---
 
@@ -1263,7 +1263,7 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-visualize` |
 | Phase | Excel |
-| Saved/updated | 01 Aug 2026, 23:58 |
+| Saved/updated | 02 Aug 2026, 00:02 |
 | Completed tasks | 0 |
 | Lesson complete | In progress |
 
@@ -1273,6 +1273,7 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Note:** I completed data profiling to understand the data fields and records. Detected and resolved data quality issues
 - **Built:** I created three worksheets to keep the raw dataset, the PivotAnalysis and Notes to document all the changes
 - **Built:** I created an Excel Pivot table and Pivot Chart to track football match performance for both Home and Away matches by first and second half of playtime
+- **Built:** The performace insights i created generated informed the coaching crew decisions
 
 ### To Explore Further
 
