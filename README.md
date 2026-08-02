@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**29 days logged &middot; 1 weeks &middot; 4-day streak &middot; last activity 2026-08-01**
+**30 days logged &middot; 0 weeks &middot; 5-day streak &middot; last activity 2026-08-02**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 2026-08-01 | Show & Tell | Week 4: show and tell | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-match-performance.png](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-match-performance.png) |
+| — | — | — | Save a journal entry to populate this table |
 
 Full journal: [journal/index.md](journal/index.md)
 
