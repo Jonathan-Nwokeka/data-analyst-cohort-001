@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 6 | 5 | 02 Aug 2026, 18:15 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 6 | 5 | 02 Aug 2026, 18:17 |
 
 ---
 
@@ -1287,13 +1287,14 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-portfolio-proof` |
 | Phase | Excel |
-| Saved/updated | 02 Aug 2026, 18:15 |
+| Saved/updated | 02 Aug 2026, 18:17 |
 | Completed tasks | 0 |
 | Lesson complete | In progress |
 
 ### What I Did
 
 - **Built:** Hospitality: Built interactive hotel revenue pivot with RoomType/Month breakdown and Quarter slicer. Suite revenue = £2,880 (52% of total). Board can filter by quarter without requesting a new file
+- **Verified:** Utilities: Cleaned 8 meter records (5 issues found) before pivoting. Pivot only includes 6 validated readings — incomplete and negative usage excluded.
 
 ### To Explore Further
 
