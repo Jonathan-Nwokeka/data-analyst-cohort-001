@@ -13,6 +13,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
 | 2026-08-02 | Show & Tell | Week 4: show and tell | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-match-pivotchart.png](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-match-pivotchart.png) |
+| 2026-08-02 | Show & Tell | Week 4: show and tell | [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-media-acticlePivotTable.png](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-media-acticlePivotTable.png) |
 
 Full journal: [journal/index.md](journal/index.md)
 
