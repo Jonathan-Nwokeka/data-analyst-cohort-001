@@ -6,7 +6,7 @@
 
 - Track: Data Analyst Job-Ready
 - Weeks with evidence: 5
-- Lesson entries captured: 27
+- Lesson entries captured: 28
 
 | Week | Evidence entries | Completed | Last updated |
 | --- | ---: | ---: | --- |
@@ -14,7 +14,7 @@
 | [Week 1: Workbook setup, tables, sorting, filtering, and named r](#week-1-workbook-setup-tables-sorting-filtering-and-named-r) | 7 | 7 | 16 Jul 2026, 21:25 |
 | [Week 2: Formulas: SUM, AVERAGE, COUNTIFS, nested IF, VLOOKUP, a](#week-2-formulas-sum-average-countifs-nested-if-vlookup-a) | 7 | 7 | 13 Jul 2026, 16:17 |
 | [Week 3: Cleaning data: duplicates, TRIM/PROPER, text-to-columns](#week-3-cleaning-data-duplicates-trimproper-text-to-columns) | 7 | 7 | 20 Jul 2026, 23:32 |
-| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 5 | 4 | 02 Aug 2026, 00:02 |
+| [Week 4: Pivot tables, pivot charts, slicers, and a one-page man](#week-4-pivot-tables-pivot-charts-slicers-and-a-one-page-man) | 6 | 5 | 02 Aug 2026, 18:06 |
 
 ---
 
@@ -1263,9 +1263,9 @@ The total number of rows . I identified and confirmed the column that will help 
 | --- | --- |
 | Lesson slug | `da-week-04-visualize` |
 | Phase | Excel |
-| Saved/updated | 02 Aug 2026, 00:02 |
-| Completed tasks | 0 |
-| Lesson complete | In progress |
+| Saved/updated | 02 Aug 2026, 00:03 |
+| Completed tasks | 5 |
+| Lesson complete | Yes |
 
 ### What I Did
 
@@ -1274,6 +1274,26 @@ The total number of rows . I identified and confirmed the column that will help 
 - **Built:** I created three worksheets to keep the raw dataset, the PivotAnalysis and Notes to document all the changes
 - **Built:** I created an Excel Pivot table and Pivot Chart to track football match performance for both Home and Away matches by first and second half of playtime
 - **Built:** The performace insights i created generated informed the coaching crew decisions
+
+### To Explore Further
+
+
+
+---
+
+### Lesson 6: Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report
+
+| Field | Value |
+| --- | --- |
+| Lesson slug | `da-week-04-portfolio-proof` |
+| Phase | Excel |
+| Saved/updated | 02 Aug 2026, 18:06 |
+| Completed tasks | 0 |
+| Lesson complete | In progress |
+
+### What I Did
+
+- **Built:** 'Built self-service Excel pivot reports with slicers for 5 industries, enabling non-technical stakeholders to filter data independently without requesting new spreadsheet
 
 ### To Explore Further
 
