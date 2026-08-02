@@ -38,3 +38,11 @@
 - **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-Hotel-Revenue.png](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-Hotel-Revenue.png)
 - **How you will improve the explanation:** BY removing cluters
 - **Logged at:** 2026-08-02 17:53 UTC
+
+### 2026-08-02 — Week 4: show and tell
+
+- **Demo topic:** Week 4: show and tell
+- **What you showed:** Sales Report
+- **Evidence:** [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-Sales-pivotReport.png](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-04/show-and-tell/week-04-Sales-pivotReport.png)
+- **How you will improve the explanation:** To improve on the explanation, i will use  the right visual form for the chart
+- **Logged at:** 2026-08-02 17:57 UTC
