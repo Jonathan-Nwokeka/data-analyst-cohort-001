@@ -2,8 +2,7 @@
 
 Newest week first. Each week links to its own page.
 
-| Week | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
-| --- | --- | --- | --- | --- | --- | --- |
-| Week 4: The Friday Business Review Dashboard — Reporting Capstone | – | – | – | 5 | – | [open](week-04.md) |
+| Week | Lessons | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 Pre-cohort notes: [earlier.md](earlier.md)
