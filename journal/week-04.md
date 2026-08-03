@@ -12,7 +12,7 @@
 | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 30 Jul 2026, 22:28 |
 | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 02 Aug 2026, 00:03 |
 | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 02 Aug 2026, 19:00 |
-| Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:47 |
+| Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete | 5 | 03 Aug 2026, 17:51 |
 
 ### Learn: Pivot tables, pivot charts, slicers, and a one-page management report
 
@@ -78,3 +78,4 @@
 
 - **Note:** I rebuilt a Pivot Table to track Hotel Renenue across the various Room Type in the first quarter of the year
 - **Built:** I created Excel Pivot Chart to enable stakeholders perform self service analysis
+- **Note:** I reviewed the change log entries to audit the data transformation process and notes
