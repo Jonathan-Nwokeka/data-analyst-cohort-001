@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 03 Aug 2026, 17:47 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 03 Aug 2026, 17:51 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 00:03 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 19:00 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 30 Jul 2026, 22:28 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
