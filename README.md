@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**33 days logged &middot; 5 weeks &middot; 6-day streak &middot; last activity 2026-08-03**
+**34 days logged &middot; 6 weeks &middot; 7-day streak &middot; last activity 2026-08-04**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 03 Aug 2026, 17:51 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
+| 04 Aug 2026, 16:15 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 03 Aug 2026, 17:56 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 00:03 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 19:00 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 30 Jul 2026, 22:28 | Lesson | Analyze: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 29 Jul 2026, 20:43 | Lesson | Clean and validate: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 25 Jul 2026, 23:33 | Lesson | Practice: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 22 Jul 2026, 23:40 | Lesson | Learn: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
-| 20 Jul 2026, 21:14 | Lesson | Visualize: Cleaning data: duplicates, TRIM/PROPER, text-to-columns, date formats, and validation rules | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
