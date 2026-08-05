@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**34 days logged &middot; 6 weeks &middot; 7-day streak &middot; last activity 2026-08-04**
+**35 days logged &middot; 6 weeks &middot; 8-day streak &middot; last activity 2026-08-05**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 04 Aug 2026, 17:00 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 05 Aug 2026, 14:21 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 03 Aug 2026, 17:56 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 00:03 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 19:00 | Lesson | Portfolio proof: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
