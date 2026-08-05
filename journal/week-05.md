@@ -6,7 +6,7 @@
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
-| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 7 | 05 Aug 2026, 14:23 |
+| Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 8 | 05 Aug 2026, 14:38 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -14,3 +14,4 @@
 
 - **Built:** I created a histogram to calculate the number of patients who fall with each wait time
 - **Built:** I created a scatter plot to visualise the various wait time and how close or far related values are
+- **Built:** I wrote a report to brief the Director A&E on the findings of the typical patient wait time of 1.65hs which was gotten by calculating the median value . Due to a single Outlier wait time of 8 hours,  the mean calculation of 2.50 was skewed towards the Outlier and doesn't represent the typical A&E wait time
