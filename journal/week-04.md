@@ -84,3 +84,19 @@
 **To explore further**
 
 - [ ] Slicers in Pivot chart
+
+## Daily Concept Clinic
+
+### Statistics 1: Centre - mean, median, mode
+
+_2026-08-04 · logged 2026-08-06 10:51 UTC_
+
+- **Clinic topic:** Statistics 1: Centre - mean, median, mode
+- **What was taught:** Steps to understand how to choose the right statistics for the question 
+1) Question 
+2) Statistics Family 
+3) Calculation method 
+4) Meaning 
+5) Decision
+- **What you now understand:** The centre statistics uses the mean and median to describe or identify values that falls within the centre normal or typical values. While mode is used to determine the highest frequency
+- **What is still unclear or your feedback:** The concept was delivered concisely with practical homework to reinforce understanding
