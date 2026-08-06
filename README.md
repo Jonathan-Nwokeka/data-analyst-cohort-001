@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 06 Aug 2026, 11:31 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
+| 06 Aug 2026, 11:33 | Lesson | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress |
 | 05 Aug 2026, 23:06 | Lesson | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 | 03 Aug 2026, 17:56 | Lesson | Review: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
 | 02 Aug 2026, 00:03 | Lesson | Visualize: Pivot tables, pivot charts, slicers, and a one-page management report | Complete |
