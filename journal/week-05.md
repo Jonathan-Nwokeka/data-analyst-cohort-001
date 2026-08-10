@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 05 Aug 2026, 23:06 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
-| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 12:39 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
+| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 1 | 10 Aug 2026, 13:43 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -36,3 +37,9 @@
 - **Why it matters:** I fixed the Outlier issue by creating an outlier flag column to flag and report the outliers values
 - **Note:** I Flagged the FieldID F004 for agronomist investigation, flagged F007 as possible data entry error
 - **Built:** I wrote a Data Quality Note: `Two records excluded from analysis. F004 requires field investigation. F007 YieldPerHa (80 t/ha) is physically impossible — verify source data.`
+
+### Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** I calculated Statistics Centre cluster to report exam score distributions for three subjects in Excel to help track students performance
