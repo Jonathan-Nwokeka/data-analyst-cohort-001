@@ -2,12 +2,13 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 2/3 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 05 Aug 2026, 23:06 |
-| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 06 Aug 2026, 11:33 |
+| Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 12:14 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -25,3 +26,9 @@
 - **Note:** I calculated the median value in Excel `=Median (C2:C9)` `1.05%` to compare the closeness with the mean value and discovered that a supposedly Outlier in the MonthlyReturn% was pulling the averages upward
 - **Note:** I calculated the Max `=Max(C2:C9)` ,the Min `=Min(C2:C9)` and the correlation `=CORREL(C2:C9,D2:D9)` of 0.89% which is a near perfect positive correlation of high return suggesting high volatility
 - **Built:** I wrote a summary report to the fund manager US Tech (2.8%) and Emerging Markets (1.9%) offer highest returns but carry 6× the volatility of gilts. Return and risk are almost perfectly correlated (r=0.98) — no free lunch in this portfolio.
+
+### Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** I profiled farm dataset about crop yields across different fields and detected data quality issue around an Outlier by calculating the `Inter Quarter Range (IQR)` for yield per hecter
