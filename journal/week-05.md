@@ -12,7 +12,7 @@
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 17:41 |
 | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 19:33 |
-| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 20:38 |
+| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 20:48 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -80,3 +80,4 @@
 - **Explained:** When a correlation returns 0.03, it means there is a weak posivite relationship between the two variables in question
 - **Note:** To identify and flag a high Outlier i will calculate the first and the third Quartile then subtrate Q3-Q1 to find IQR then write`=If value > Q3 + 1.5×IQR =  “Higher Outlier” `
 - **Explained:** A hospital reports an average wait of 2.5 hours. A patient waited 8 hours. Is the average misleading? Explain. Yes the Average is misleading , to get the accueate wait time , the median should be calculated to determine the typical patient waited
+- **Note:** Sampling bias is when the members of a population are not selected randomly and does not rprepresent the entire population . Eg a dataset about customer review , where gender is female . this will produce a bias responses
