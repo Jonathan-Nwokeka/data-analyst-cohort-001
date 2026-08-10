@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,8 @@
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 17:41 |
-| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 19:29 |
+| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 19:33 |
+| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 20:04 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -69,3 +70,9 @@
 - **Note:** Finance: I compared 8 assets. Return and volatility almost perfectly correlated (r=0.98). US Tech flagged as high-return outlier. No asset offers above-average return with below-average risk
 - **Applied:** Education: I applied Standard deviation to identify English as most consistent subject (SD=14.7). Maths/Science correlation r=0.998 — targeted Maths intervention should improve both
 - **Note:** Climate: I calculated the correlation and identified Temperature anomaly strongly correlated with CO2 (r=0.95). 2024 warmest year at +1.35°C
+
+### Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** To recap the week 05 activities , Center cluster Median is chosen when calculating the normal or typical value in a dataset distribution. Not Mean which may not give accurate or typical value due to an outlier but still  useful for calculating simple Average for planning purposes
