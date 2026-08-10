@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 05 Aug 2026, 23:06 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
-| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 12:21 |
+| Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 12:30 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -33,4 +33,4 @@
 
 - **Note:** I profiled farm dataset about crop yields across different fields and detected data quality issue around an Outlier by calculating the `Inter Quarter Range (IQR)` for yield per hecter
 - **Verified:** I discoverd two rows in the yield per hecter column with values below and above the upper fence of IQR
-- **Why it matters:** I fixed the Outlier issue by creating an outlier flag column to flag and report the outliers
+- **Why it matters:** I fixed the Outlier issue by creating an outlier flag column to flag and report the outliers values
