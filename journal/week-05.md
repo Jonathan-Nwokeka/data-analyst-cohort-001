@@ -9,7 +9,7 @@
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 05 Aug 2026, 23:06 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
-| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 1 | 10 Aug 2026, 14:22 |
+| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 1 | 10 Aug 2026, 14:29 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -46,3 +46,4 @@
 - **Built:** I wrote Excel fomula : `=AVERAGE(ExamScoreTable[Maths])`, `=AVERAGE(ExamScoreTable[English])`,`=AVERAGE(ExamScoreTable[Science])`  to understand the Average score of students for the three subjects
 - **Note:** To understand the typical student score across all the three subjects , i calculated the Median to measure this :`=MEDIAN(ExamScoreTable[Maths])`,`=MEDIAN(ExamScoreTable[English])`, =MEDIAN(ExamScoreTable[Scienc])
 - **Note:** I calculated the spread of the exam scores across the three subjects to ascertain the consistency of score : `=STDEV(ExamScoreTable[Maths])`,`=STDEV(ExamScoreTable[English])`,`=STDEV(ExamScoreTable[Science])`
+- **Built:** I wrote Excel fomula to calculate the correlation beween Maths and Science score performace : `=CORREL(ExamScoreTable[Maths],ExamScoreTable[Science])`
