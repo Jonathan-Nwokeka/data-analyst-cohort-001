@@ -10,7 +10,7 @@
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
-| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 17:39 |
+| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 17:40 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -57,3 +57,4 @@
 - **Built:** I created a statistical summary to calculate the mean , median and Standard deviation about the temperature Anomaly
 - **Note:** I calculated the correlation between the year and the temperature anomaly to understand the trend
 - **Built:** I created both line chart and scatter point to represent the linear trendline year and tempearture anomaly
+- **Note:** I made a summary report : Every year since 2017 shows above-baseline warming. The trend is upward (r=0.87). CO2 concentration is the strongest predictor (r=0.95). 2024 is the warmest year in this dataset at +1.35°C
