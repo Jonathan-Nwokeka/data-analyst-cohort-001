@@ -10,7 +10,7 @@
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
-| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 17:37 |
+| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 17:39 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -56,3 +56,4 @@
 
 - **Built:** I created a statistical summary to calculate the mean , median and Standard deviation about the temperature Anomaly
 - **Note:** I calculated the correlation between the year and the temperature anomaly to understand the trend
+- **Built:** I created both line chart and scatter point to represent the linear trendline year and tempearture anomaly
