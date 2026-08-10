@@ -11,7 +11,7 @@
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 17:41 |
-| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 19:21 |
+| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 19:23 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -64,4 +64,5 @@
 
 **What I did**
 
-- **Note:** Healthcare: Analysed A&E wait times for 8 patients. Median wait 1.65h vs mean 2.50h — one outlier (8h delayed transfer) distorted the average. Staffing negatively correlated with wait time (r=-0.89)
+- **Note:** Healthcare: I analysed A&E wait times for 8 patients. Median wait 1.65h vs mean 2.50h — one outlier (8h delayed transfer) distorted the average. Staffing negatively correlated with wait time (r=-0.89)
+- **Why it matters:** Agriculture: I identified 2 outliers in yield data — one genuine crop failure, one data entry error (80t/ha impossible). Excluding outliers: mean yield drops from 14.35 to 5.83 t/ha
