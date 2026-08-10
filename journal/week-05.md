@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
-| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 17:40 |
+| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 17:41 |
+| Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 19:21 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -58,3 +59,9 @@
 - **Note:** I calculated the correlation between the year and the temperature anomaly to understand the trend
 - **Built:** I created both line chart and scatter point to represent the linear trendline year and tempearture anomaly
 - **Note:** I made a summary report : Every year since 2017 shows above-baseline warming. The trend is upward (r=0.87). CO2 concentration is the strongest predictor (r=0.95). 2024 is the warmest year in this dataset at +1.35°C
+
+### Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Note:** Healthcare: Analysed A&E wait times for 8 patients. Median wait 1.65h vs mean 2.50h — one outlier (8h delayed transfer) distorted the average. Staffing negatively correlated with wait time (r=-0.89)
