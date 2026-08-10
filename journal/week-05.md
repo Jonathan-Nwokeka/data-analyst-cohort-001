@@ -12,7 +12,7 @@
 | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
 | Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 17:41 |
 | Portfolio proof: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 19:33 |
-| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 20:12 |
+| Review: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 20:26 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -78,3 +78,4 @@
 - **Note:** To recap the week 05 activities , Center cluster Median is chosen when calculating the normal or typical value in a dataset distribution. Not Mean which may not give accurate or typical value due to an outlier but still  useful for calculating simple Average for planning purposes
 - **Note:** A standard deviation of 0 indicates that all values in a dataset are identical, with no variation from the mean
 - **Explained:** When a correlation returns 0.03, it means there is a weak posivite relationship between the two variables in question
+- **Note:** To identify and flag a high Outlier i will calculate the first and the third Quartile then subtrate Q3-Q1 to find IQR then write`=If value > Q3 + 1.5×IQR =  “Higher Outlier” `
