@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 12 | 05 Aug 2026, 23:06 |
 | Practice: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 06 Aug 2026, 11:36 |
 | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 12:40 |
-| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 1 | 10 Aug 2026, 14:34 |
+| Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete | 5 | 10 Aug 2026, 14:34 |
+| Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | In progress | 0 | 10 Aug 2026, 17:36 |
 
 ### Learn: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
 
@@ -48,3 +49,9 @@
 - **Note:** I calculated the spread of the exam scores across the three subjects to ascertain the consistency of score : `=STDEV(ExamScoreTable[Maths])`,`=STDEV(ExamScoreTable[English])`,`=STDEV(ExamScoreTable[Science])`
 - **Built:** I wrote Excel fomula to calculate the correlation beween Maths and Science score performace : `=CORREL(ExamScoreTable[Maths],ExamScoreTable[Science])`
 - **Note:** I reported Insight for head teacher: 'English performance is most consistent (SD=14.7). Maths and Science are almost perfectly correlated (r=0.998) — targeted Maths support will likely improve Science too. StudentID S004 and S008 are outliers requiring intervention.'
+
+### Visualize: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English
+
+**What I did**
+
+- **Built:** I created a statistical summary to calculate the mean , median and Standard deviation about the temperature Anomaly
