@@ -82,3 +82,19 @@
 - **Explained:** A hospital reports an average wait of 2.5 hours. A patient waited 8 hours. Is the average misleading? Explain. Yes the Average is misleading , to get the accueate wait time , the median should be calculated to determine the typical patient waited
 - **Note:** Sampling bias is when the members of a population are not selected randomly and does not rprepresent the entire population . Eg a dataset about customer review , where gender is female . this will produce a bias responses
 - **Explained:** Two variables have a correlation of 0.95. Does this prove one causes the other? Explain. No , correlation is not the same as causation, it means the two variables tend to move anlog the same posivite direction
+
+## Daily Concept Clinic
+
+### Statistics 3 - Outliers and Sampling Bias
+
+_2026-08-11 · logged 2026-08-11 20:17 UTC_
+
+- **Clinic topic:** Statistics 3 - Outliers and Sampling Bias
+- **What was taught:** 1)  What and how to calculate an Outlier
+2) Normal and skewed distribution 
+Sampling bias
+3) The shape of both normal and skewed distribution
+- **What you now understand:** 1) Two methods of calculating an Outlier: The IQR Fencing methods and the Z score
+2) what a masking effect is
+3) Reviewing sampling methods to reduce samples bias
+- **What is still unclear or your feedback:** More practice will help to master the concept
