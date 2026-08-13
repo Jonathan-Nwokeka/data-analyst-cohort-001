@@ -187,3 +187,19 @@
 - **Applied:** Education: *Processed test scores for 8 students across 3 subjects. Used AVERAGE for per-student scores, COUNTIFS to identify 5 students passing all subjects, nested IF for A/B/C/F grade assignment, and XLOOKUP to retrieve contact emails. Identified 2 students requiring intervention before mock exams.*
 - **Verified:** E-commerce: *Audited a product catalogue with 8 rows and 8 data quality issues. Found and fixed #VALUE! errors from text in numeric fields, #DIV/0! from zero stock values, and blank mandatory fields. Wrapped all FinalPrice formulas in IFERROR to prevent report failures.*
 - **Applied:** Education: *Processed test scores for 8 students across 3 subjects. Used AVERAGE for per-student scores, COUNTIFS to identify 5 students passing all subjects, nested IF for A/B/C/F grade assignment, and XLOOKUP to retrieve contact emails. Identified 2 students requiring intervention before mock exams.*
+
+## Daily Concept Clinic
+
+### Statistics 3a - Position
+
+_2026-08-13 · logged 2026-08-13 21:51 UTC_
+
+- **Clinic topic:** Statistics 3a - Position
+- **What was taught:** Position cluster 
+ Rank,
+ Standard 1224 Ranking method.
+Dens Ranking method
+- **What you now understand:** The difference between the standard 1224 ranking method and the dens ranking method
+- **What is still unclear or your feedback:** The pecentile 
+Position decision rule
+- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
