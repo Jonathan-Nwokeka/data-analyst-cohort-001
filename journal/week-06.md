@@ -2,13 +2,14 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 2/3 complete
+## Lessons — 3/4 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 14 Aug 2026, 15:54 |
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 10:57 |
-| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 5 | 17 Aug 2026, 11:06 |
+| Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 11:07 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 17 Aug 2026, 21:50 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -21,3 +22,9 @@
 **What I did**
 
 - **Note:** Data quality note: 'Two records flagged as statistically implausible (z > 4.5). These are excluded from interim analysis pending source data verification. The normal model assumes BP is approximately normally distributed in this study population
+
+### Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Applied:** I used Excel formula to calculate the probability that an e- commernce business can achieve  a sales order above a normal order sales
