@@ -9,7 +9,7 @@
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 14 Aug 2026, 15:54 |
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 10:57 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 11:07 |
-| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 17 Aug 2026, 21:50 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 17 Aug 2026, 22:12 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -28,3 +28,4 @@
 **What I did**
 
 - **Applied:** I used Excel formula to calculate the probability that an e- commernce business can achieve  a sales order above a normal order sales
+- **Note:** I discoverd 4% represents trading order sales value above the normal sales
