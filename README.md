@@ -14,12 +14,12 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | --- | --- | --- | --- |
 | 19 Aug 2026, 18:36 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:49 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
+| 19 Aug 2026, 19:16 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
 | 17 Aug 2026, 10:57 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 11:07 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 22:17 | Lesson | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 14 Aug 2026, 15:54 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 2026-08-13 | Daily Concept Clinic | Statistics 3a - Position | — |
-| 2026-08-11 | Daily Concept Clinic | Statistics 3 - Outliers and Sampling Bias | — |
 
 Full journal: [journal/index.md](journal/index.md)
 
