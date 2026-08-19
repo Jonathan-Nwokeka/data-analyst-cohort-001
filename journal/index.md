@@ -2,9 +2,11 @@
 
 Newest week first. Each week links to its own page.
 
+Lessons counts saved lesson notes. Daily Tasks counts separate cohort-tab daily task notes, so a dash there does not mean the lesson had no tasks.
+
 | Week | Lessons | Daily Tasks | Concept Clinic | Hackathon | Show & Tell | Mock Interview | |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Week 6 | 4 | – | – | – | – | – | [open](week-06.md) |
+| Week 6 | 5 | – | – | – | – | – | [open](week-06.md) |
 | Week 5 | 7 | – | 1 | – | – | – | [open](week-05.md) |
 | Week 4 | 7 | – | 1 | – | – | – | [open](week-04.md) |
 | Week 3 | 7 | – | – | – | – | – | [open](week-03.md) |
