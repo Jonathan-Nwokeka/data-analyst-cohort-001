@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 10:57 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 11:07 |
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 22:17 |
-| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 19 Aug 2026, 18:34 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:36 |
+| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 19 Aug 2026, 18:44 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -39,3 +40,9 @@
 - **Built:** I built a bell curve chart to  present the distribution of A-level points for a year's applicant pool to the admissions committee
 - **Note:** I calculated the distribution of applicant whose points was below and above the offer threshold of 96 points
 - **Note:** I presented the insights to the adimission commitee : `81% of applicants meet the 96-point offer threshold. The top 10% of applicants score 135 or above — these are target scholarship candidates.`
+
+### Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Note:** I modelled biscuit pack weight distribution (mean=200g, SD=4g). Calculated 10.6% rejection rate. Recommended recalibration to 202g to reduce rejection to 2.3% in the Manufacturing sector
