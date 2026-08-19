@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 11:07 |
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 22:17 |
 | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:36 |
-| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 19 Aug 2026, 18:44 |
+| Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:46 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -46,3 +46,4 @@
 **What I did**
 
 - **Note:** I modelled biscuit pack weight distribution (mean=200g, SD=4g). Calculated 10.6% rejection rate. Recommended recalibration to 202g to reduce rejection to 2.3% in the Manufacturing sector
+- **Applied:** I applied normal model to credit score distribution. 4% of applicants fall below the 600 automatic decline threshold in the Finance industry
