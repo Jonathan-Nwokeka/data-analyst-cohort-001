@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 7 | 14 Aug 2026, 15:54 |
 | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 10:57 |
 | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 11:07 |
-| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 17 Aug 2026, 22:17 |
+| Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 22:17 |
+| Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 19 Aug 2026, 18:05 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -30,3 +31,9 @@
 - **Applied:** I used Excel formula to calculate the probability that an e- commernce business can achieve  a sales order above a normal order sales
 - **Note:** I discoverd 4% represents trading order sales value above the normal sales
 - **Note:** I calculatetd the percentile break down for the KPI dashboard design in Excel : 25th percentile: `=NORM.INV(0.25, 47, 12)` → £39 — bottom quartile 75th percentile: `=NORM.INV(0.75, 47, 12)` → £55 — top quartile 90th percentile: `=NORM.INV(0.90, 47, 12)` → £62 — top 10% of days 99th percentile: `=NORM.INV(0.99, 47, 12)` → £75 — exceptional day benchmark
+
+### Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Built:** I built a bell curve chart to  present the distribution of A-level points for a year's applicant pool to the admissions committee
