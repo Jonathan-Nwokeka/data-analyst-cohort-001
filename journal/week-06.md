@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 6/6 complete
+## Lessons — 6/7 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -12,6 +12,7 @@
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 22:17 |
 | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:36 |
 | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:49 |
+| Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 19 Aug 2026, 19:16 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
@@ -50,3 +51,11 @@
 - **Note:** Identified flash sale day (AOV £68) as statistically unusual — top 4% of trading days in the Retail
 - **Built:** I created a chart to visualise A-level applicant pool
 - **Note:** 81% meet offer threshold. Top 10% benchmark: 135 points in the Education sector
+
+### Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
+
+**What I did**
+
+- **Note:** In a normal distribution , the 68 rule shows the data falls with 1 standard deviation and 95 dipicts the data falls with 2 standard deviation while 99.7 rule shows data falls with 3 standard deviation
+- **Note:** A Z score of -2.3 shows the value lies below the mean value and is negatively skewed
+- **Note:** NORM.DIST(500, 480, 20, TRUE) returns 0.841. This shows that 84% are above the thresfold
