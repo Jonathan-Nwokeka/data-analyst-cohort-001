@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**41 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-08-17**
+**42 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-08-19**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
+| 19 Aug 2026, 18:05 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
 | 17 Aug 2026, 10:57 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 11:07 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
-| 17 Aug 2026, 22:17 | Lesson | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
+| 17 Aug 2026, 22:17 | Lesson | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 14 Aug 2026, 15:54 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 2026-08-13 | Daily Concept Clinic | Statistics 3a - Position | — |
 | 2026-08-11 | Daily Concept Clinic | Statistics 3 - Outliers and Sampling Bias | — |
 | 10 Aug 2026, 12:40 | Lesson | Clean and validate: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
-| 10 Aug 2026, 14:34 | Lesson | Analyze: Mean, median, mode, standard deviation, correlation, outliers, and sampling bias in plain English | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
