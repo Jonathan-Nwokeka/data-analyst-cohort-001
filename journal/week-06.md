@@ -12,7 +12,7 @@
 | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 17 Aug 2026, 22:17 |
 | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:36 |
 | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete | 5 | 19 Aug 2026, 18:49 |
-| Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 20 Aug 2026, 19:15 |
+| Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress | 0 | 20 Aug 2026, 19:44 |
 
 ### Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule
 
