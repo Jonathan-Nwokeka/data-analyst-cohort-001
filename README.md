@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**44 days logged &middot; 6 weeks &middot; 1-day streak &middot; last activity 2026-08-22**
+**45 days logged &middot; 7 weeks &middot; 1-day streak &middot; last activity 2026-08-24**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 22 Aug 2026, 20:57 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | In progress |
+| 24 Aug 2026, 12:21 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 22 Aug 2026, 20:58 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:36 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:49 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 10:57 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 11:07 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 22:17 | Lesson | Analyze: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 14 Aug 2026, 15:54 | Lesson | Learn: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
-| 2026-08-13 | Daily Concept Clinic | Statistics 3a - Position | — |
 
 Full journal: [journal/index.md](journal/index.md)
 
