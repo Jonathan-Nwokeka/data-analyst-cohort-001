@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 24 Aug 2026, 12:21 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 24 Aug 2026, 22:02 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
 | 22 Aug 2026, 20:58 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:36 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:49 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
