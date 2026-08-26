@@ -7,7 +7,7 @@
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 26 Aug 2026, 17:04 |
-| Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 26 Aug 2026, 20:08 |
+| Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 26 Aug 2026, 20:10 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -23,3 +23,4 @@
 **What I did**
 
 - **Applied:** I ran a T - test in excel to obtain a p- value T.TEST in Excel: =T.TEST({14,11,13,10,12,15,11,12},{11,10,9,12,11,10,12,11},2,2) → p ≈ 0.09
+- **Verified:** I accepted a Null Hypothesis because same result as the A/B test — p > 0.05. The 1.5-day difference is NOT statistically significant with only 8 patients per group
