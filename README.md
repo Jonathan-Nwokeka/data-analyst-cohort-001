@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 27 Aug 2026, 08:33 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 27 Aug 2026, 08:35 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
 | 26 Aug 2026, 17:04 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 26 Aug 2026, 20:12 | Lesson | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 22 Aug 2026, 20:58 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
