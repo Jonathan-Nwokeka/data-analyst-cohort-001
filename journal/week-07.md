@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 26 Aug 2026, 17:04 |
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 26 Aug 2026, 20:12 |
-| Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 27 Aug 2026, 08:33 |
+| Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 27 Aug 2026, 08:35 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -33,3 +33,4 @@
 
 - **Verified:** I conducted an A/B test on defect rates before and after a new machine calibration and found T.TEST result: p ≈ 0.04 → significant at 5% level
 - **Note:** The test shows Intervals barely overlap → borderline significant → matches p ≈ 0.04
+- **Explained:** The calibration reduced defects from 12% to 7% — statistically significant. However, document confounders: new operators, shift changes, or raw material differences could also explain the drop
