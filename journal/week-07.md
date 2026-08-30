@@ -9,7 +9,7 @@
 | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 26 Aug 2026, 17:04 |
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 26 Aug 2026, 20:12 |
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 27 Aug 2026, 08:36 |
-| Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 30 Aug 2026, 18:04 |
+| Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 30 Aug 2026, 18:07 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -42,3 +42,4 @@
 
 - **Applied:** I used T test to compare two dataset group to see if there are different T.TEST: =T.TEST(compact_data, large_data, 2, 2) → p ≈ 0.006 — highly significant
 - **Note:** I discover large effect by using the fomula , Effect size (Cohen's d): d = (24.10 - 18.40) / pooled_SD ≈ 5.70 / 3.87 ≈ 1.47 Rule of thumb: d > 0.8 = large effect. This is a very large difference.
+- **Why it matters:** I found 95% CI for the difference: Mean diff = £5.70 ± 1.96 × SE = £5.70 ± £3.40 → £2.30 to £9.10
