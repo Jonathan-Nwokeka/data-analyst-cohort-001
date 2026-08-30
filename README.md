@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**47 days logged &middot; 7 weeks &middot; 2-day streak &middot; last activity 2026-08-27**
+**48 days logged &middot; 7 weeks &middot; 1-day streak &middot; last activity 2026-08-30**
 
 ## Latest Proof
 
@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 27 Aug 2026, 08:35 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 30 Aug 2026, 18:03 | Lesson | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 27 Aug 2026, 08:36 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 26 Aug 2026, 17:04 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 26 Aug 2026, 20:12 | Lesson | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 22 Aug 2026, 20:58 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:36 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:49 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 17 Aug 2026, 10:57 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
-| 17 Aug 2026, 11:07 | Lesson | Clean and validate: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
