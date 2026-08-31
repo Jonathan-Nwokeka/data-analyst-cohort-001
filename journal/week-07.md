@@ -2,14 +2,15 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 3/4 complete
+## Lessons — 4/5 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 7 | 26 Aug 2026, 17:04 |
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 26 Aug 2026, 20:12 |
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 27 Aug 2026, 08:36 |
-| Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 30 Aug 2026, 18:09 |
+| Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 30 Aug 2026, 18:10 |
+| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 31 Aug 2026, 16:15 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -44,3 +45,10 @@
 - **Note:** I discover large effect by using the fomula , Effect size (Cohen's d): d = (24.10 - 18.40) / pooled_SD ≈ 5.70 / 3.87 ≈ 1.47 Rule of thumb: d > 0.8 = large effect. This is a very large difference.
 - **Why it matters:** I found 95% CI for the difference: Mean diff = £5.70 ± 1.96 × SE = £5.70 ± £3.40 → £2.30 to £9.10
 - **Note:** From the calculations it shows Large stores generate statistically significantly higher basket values (p=0.006, effect d=1.47). The true difference is likely between £2.30 and £9.10 per basket. This justifies investigating whether format or product range is the primary driver
+
+### Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Built:** I created before and after bar chart showing error bar
+- **Built:** I built Distribution overlap chart: to plot two normal curves on the same axes (one for A, one for B) to show how much the score distributions overlap
