@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 4/5 complete
+## Lessons — 5/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -10,7 +10,8 @@
 | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 26 Aug 2026, 20:12 |
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 27 Aug 2026, 08:36 |
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 30 Aug 2026, 18:10 |
-| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 31 Aug 2026, 16:15 |
+| Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 16:16 |
+| Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 31 Aug 2026, 18:14 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -52,3 +53,10 @@
 
 - **Built:** I created before and after bar chart showing error bar
 - **Built:** I built Distribution overlap chart: to plot two normal curves on the same axes (one for A, one for B) to show how much the score distributions overlap
+- **Applied:** I used NORM.DIST to generate density values for both curves (x from 40 to 100)
+
+### Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
+
+**What I did**
+
+- **Note:** I conducted A/B test on checkout button in E-commerce:— observed 2.8pp lift (9.6% → 12.4%). p=0.09: insufficient evidence to declare winner. Recommended extending test to n=1,740 per group.
