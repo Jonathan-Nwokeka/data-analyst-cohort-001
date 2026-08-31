@@ -12,14 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 30 Aug 2026, 18:09 | Lesson | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 31 Aug 2026, 16:15 | Lesson | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 30 Aug 2026, 18:10 | Lesson | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 27 Aug 2026, 08:36 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 26 Aug 2026, 17:04 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 26 Aug 2026, 20:12 | Lesson | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 22 Aug 2026, 20:58 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:36 | Lesson | Visualize: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 | 19 Aug 2026, 18:49 | Lesson | Portfolio proof: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
-| 17 Aug 2026, 10:57 | Lesson | Practice: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
