@@ -13,7 +13,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
 | 31 Aug 2026, 16:16 | Lesson | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 31 Aug 2026, 18:14 | Lesson | Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress |
+| 31 Aug 2026, 18:17 | Lesson | Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 30 Aug 2026, 18:10 | Lesson | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 27 Aug 2026, 08:36 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
 | 26 Aug 2026, 17:04 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
