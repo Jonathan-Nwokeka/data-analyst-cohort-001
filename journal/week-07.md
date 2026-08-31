@@ -2,7 +2,7 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 5/6 complete
+## Lessons — 6/6 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
@@ -11,7 +11,7 @@
 | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 27 Aug 2026, 08:36 |
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 30 Aug 2026, 18:10 |
 | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 16:16 |
-| Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 5 | 31 Aug 2026, 18:14 |
+| Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 18:17 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -60,3 +60,5 @@
 **What I did**
 
 - **Note:** I conducted A/B test on checkout button in E-commerce:— observed 2.8pp lift (9.6% → 12.4%). p=0.09: insufficient evidence to declare winner. Recommended extending test to n=1,740 per group.
+- **Note:** I Compared two treatment protocols in the Healthcare (n=8 each). p=0.09: promising 1.5-day reduction not yet significant. Recommended n=30 per arm.
+- **Applied:** I ran statistical test on the Manufacturing: Calibration reduced defect rate from 12% to 7%. p=0.04: statistically significant improvement.
