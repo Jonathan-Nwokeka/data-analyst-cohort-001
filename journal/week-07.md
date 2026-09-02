@@ -12,7 +12,7 @@
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 30 Aug 2026, 18:10 |
 | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 16:16 |
 | Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 18:17 |
-| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 02 Sept 2026, 21:30 |
+| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 02 Sept 2026, 21:37 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -71,3 +71,4 @@
 - **Note:** The four steps of Hyposis testing includes the following, State H0 and H1 -> Compute the t-statistic -> Meaning -> Decision
 - **Note:** "P = .03, meaning there is a 97% probability the treatment worked."
 - **Verified:** p = 0.06 suggests the result is not statistically significant."
+- **Why it matters:** The confidence interval (CI) is a range of values that’s likely to include a population value with a certain degree of confidence and a 95% CI of [2.1%, 8.9%] tell us there is 95% chance the mean will fall between 2.2 to 8.9
