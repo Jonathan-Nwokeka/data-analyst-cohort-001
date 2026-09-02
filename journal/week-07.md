@@ -12,7 +12,7 @@
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 30 Aug 2026, 18:10 |
 | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 16:16 |
 | Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 18:17 |
-| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 02 Sept 2026, 21:04 |
+| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 02 Sept 2026, 21:17 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -69,4 +69,4 @@
 **What I did**
 
 - **Note:** The four steps of Hyposis testing includes the following, State H0 and H1 -> Compute the t-statistic -> Meaning -> Decision
-- **Verified:** Small p-value 0.03 → unlikely under H₀ → reject H₀ → result is significant
+- **Note:** "P = .03, meaning there is a 97% probability the treatment worked."
