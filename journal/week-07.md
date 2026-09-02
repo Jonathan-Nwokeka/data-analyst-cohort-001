@@ -12,7 +12,7 @@
 | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 30 Aug 2026, 18:10 |
 | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 16:16 |
 | Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete | 5 | 31 Aug 2026, 18:17 |
-| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 02 Sept 2026, 20:43 |
+| Review: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | In progress | 0 | 02 Sept 2026, 21:02 |
 
 ### Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals
 
@@ -68,4 +68,4 @@
 
 **What I did**
 
-- **Verified:** Small p-value 0.03 → unlikely under H₀ → reject H₀ → result is significant.
+- **Verified:** Small p-value 0.03 → unlikely under H₀ → reject H₀ → result is significant
