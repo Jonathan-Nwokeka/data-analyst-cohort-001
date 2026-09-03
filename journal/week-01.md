@@ -190,28 +190,81 @@
 
 ## Daily Concept Clinic
 
+### Understanding Data
+
+_2026-07-03_
+
+**Taught**
+
+The definition of data
+Difference between data and information
+Data use cases and why data matters
+The Life cycle of data
+How to describe data
+
+**What I now understand**
+
+I understand that data asa raw fact about an event, picture, economic activity that can be collected, process, analyze to help make business decisions
+I can now differentiate Information as the processd data while data is the unprocessed fact about any subject matter
+The understanding of the use cases of data across all industries like HR, Health, Education etc leverage data to optimise their business outcome
+I can now name and identify the various stages in data life cycle like the collection, storage, preparation , analyze, visualise, decision and archival
+I can describe data by it's structure, Name, type and format
+
+- **Support I need next:** Learn more about how to clarify data by it measurement scale
+
+### Workbook setup
+
+_2026-07-10_
+
+**Taught**
+
+1) Reasons to keep datasets organised into a workbook set up with different worksheets as a global best practice
+2) How to create a workbook for each project
+3) Workbook naming best practises and extensions
+4) Excel Table and the introduction to formulas
+
+**What I now understand**
+
+Learnt why data should be organised and structured in a workbook with different worksheets
+How to set up an Excel workbook and best naming practices
+Built an Excel workbook and worksheets,  transformed a data list into a table
+Data processing by applying sorting and filtering
+
+- **Support I need next:** I will keep practicing the new skills
+
 ### Statistics 3a - Position
 
 _2026-08-13 · logged 2026-08-13 21:51 UTC_
 
-- **Clinic topic:** Statistics 3a - Position
-- **What was taught:** Position cluster 
+**Taught**
+
+Position cluster
  Rank,
  Standard 1224 Ranking method.
 Dens Ranking method
-- **What you now understand:** The difference between the standard 1224 ranking method and the dens ranking method
-- **What is still unclear or your feedback:** The pecentile 
+
+- **What I now understand:** The difference between the standard 1224 ranking method and the dens ranking method
+
+**Still unclear**
+
+The pecentile
 Position decision rule
-- **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
+- **Support I need next:** Revisit the core concept in a follow-up clinic
 
 ### Data Modeling
 
 _2026-09-03 · logged 2026-09-03 00:15 UTC_
 
-- **Clinic topic:** Data Modeling
-- **What was taught:** 1) Deep dive into Data modeling and key concepts
+**Taught**
+
+1) Deep dive into Data modeling and key concepts
 2) Data mapping to understand how data is structured, accessed, related and stored in the database
 3) Difference classification of data modelling
-- **What you now understand:** 1) How to profile data to enable data modelling
+
+**What I now understand**
+
+1) How to profile data to enable data modelling
 2) How to apply business concepts, logical and physical dimensions into data modelling
-- **What is still unclear or your feedback:** N/A
+
+- **Still unclear:** N/A
