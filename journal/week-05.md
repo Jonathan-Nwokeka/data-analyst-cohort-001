@@ -89,12 +89,17 @@
 
 _2026-08-11 · logged 2026-08-11 20:17 UTC_
 
-- **Clinic topic:** Statistics 3 - Outliers and Sampling Bias
-- **What was taught:** 1)  What and how to calculate an Outlier
-2) Normal and skewed distribution 
+**Taught**
+
+1)  What and how to calculate an Outlier
+2) Normal and skewed distribution
 Sampling bias
 3) The shape of both normal and skewed distribution
-- **What you now understand:** 1) Two methods of calculating an Outlier: The IQR Fencing methods and the Z score
+
+**What I now understand**
+
+1) Two methods of calculating an Outlier: The IQR Fencing methods and the Z score
 2) what a masking effect is
 3) Reviewing sampling methods to reduce samples bias
-- **What is still unclear or your feedback:** More practice will help to master the concept
+
+- **Still unclear:** More practice will help to master the concept
