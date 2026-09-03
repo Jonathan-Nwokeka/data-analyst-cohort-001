@@ -203,3 +203,15 @@ Dens Ranking method
 - **What is still unclear or your feedback:** The pecentile 
 Position decision rule
 - **What support or practice you need next:** Revisit the core concept in a follow-up clinic
+
+### Data Modeling
+
+_2026-09-03 · logged 2026-09-03 00:15 UTC_
+
+- **Clinic topic:** Data Modeling
+- **What was taught:** 1) Deep dive into Data modeling and key concepts
+2) Data mapping to understand how data is structured, accessed, related and stored in the database
+3) Difference classification of data modelling
+- **What you now understand:** 1) How to profile data to enable data modelling
+2) How to apply business concepts, logical and physical dimensions into data modelling
+- **What is still unclear or your feedback:** N/A
