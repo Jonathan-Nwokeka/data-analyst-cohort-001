@@ -90,3 +90,38 @@
 - **Applied:** I applied Excel formula to calculate the aggregate summery of the operational performance across different industries of interest
 - **Built:** I created a data visualisation to communicate the insights discoverd from the data points
 - **Note:** I documented all the data transformation processes and the recommended data inspred action plan
+
+## Daily Concept Clinic
+
+### Outliers & Accuracy
+
+_2026-07-30_
+
+**Taught**
+
+1)The five standard steps to resolve Outliers and Accuracy Issues:
+2) Detect -> Explain -> Treat -> Verify -> Communicate
+3) The underlying maths for detecting and flagging outliers
+4) Understanding how a business rule is broken
+
+**What I now understand**
+
+1) What an Outlier implies
+2) How to apply the five standard steps to resolve outlier issues
+3) How to identify the reason behind an outlier
+
+### Invalid Values and Rule Violations
+
+_2026-08-01_
+
+**Taught**
+
+1) Understanding the business rules and rule violations
+2) Understanding the five standard frameworks for resolving Invalid Values and rule violations: Detect -> Explain -> Treat -> Verify -> Communicate
+3) How to write the business rules to gauge which rule is broken
+
+**What I now understand**
+
+1) How to apply the five-step standard framework to resolve invalid values and rule violations
+2) How to write business rules to help detect which is broken
+3) How to calculate the valid and invalid rate
