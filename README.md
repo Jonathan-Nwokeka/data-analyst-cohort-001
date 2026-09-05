@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**53 days logged &middot; 7 weeks &middot; 2-day streak &middot; last activity 2026-09-03**
+**50 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-09-05**
 
 ## Latest Proof
 
@@ -12,14 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 2026-09-03 | Daily Concept Clinic | Data Modeling | — |
-| 31 Aug 2026, 16:16 | Lesson | Visualize: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 31 Aug 2026, 18:17 | Lesson | Portfolio proof: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 30 Aug 2026, 18:10 | Lesson | Analyze: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 27 Aug 2026, 08:36 | Lesson | Clean and validate: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 26 Aug 2026, 17:04 | Lesson | Learn: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 26 Aug 2026, 20:12 | Lesson | Practice: Hypothesis testing, t-tests, p-values, A/B testing, and confidence intervals | Complete |
-| 22 Aug 2026, 20:58 | Lesson | Review: Normal distribution, z-scores, probability, and the 68-95-99.7 rule | Complete |
+| 2026-09-05 | Daily Concept Clinic | Data Modelling: The Five Phases | Graded take-home — Duplicates: 8/8 completed, 84% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
 
 Full journal: [journal/index.md](journal/index.md)
 
