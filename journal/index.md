@@ -4,4 +4,4 @@
 
 | Week | Clinic | What it covered |  |
 | --- | --- | --- | --- |
-| Week 5 | 1 | Data Modelling: The Five Phases | [open](week-05.md) |
+| Week 9 | 1 | DB 02 · OLTP vs OLAP — Two Jobs, Two Sh... | [open](week-09.md) |
