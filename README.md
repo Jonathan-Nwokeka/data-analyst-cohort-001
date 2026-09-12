@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**50 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-09-05**
+**51 days logged &middot; 1 weeks &middot; 1-day streak &middot; last activity 2026-09-12**
 
 ## Latest Proof
 
@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 2026-09-05 | Daily Concept Clinic | Data Modelling: The Five Phases | Graded take-home — Duplicates: 8/8 completed, 84% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
+| 2026-09-12 | Daily Concept Clinic | DB 02 · OLTP vs OLAP — Two Jobs, Two Shapes | Graded take-home — Statistics: Centre & Spread: 11/11 completed, 68% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
 
 Full journal: [journal/index.md](journal/index.md)
 
