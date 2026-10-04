@@ -12,7 +12,8 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 04 Oct 2026, 19:26 | Lesson | Day 2: Install VS Code and Open the Repo Locally | In progress |
+| 2026-10-04 | Daily Concept Clinic | SQL 06 · Aggregation & GROUP BY | Graded take-home — Statistics: Position & Relationship: 4/4 completed, 57% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
+| 04 Oct 2026, 19:29 | Lesson | Day 2: Install VS Code and Open the Repo Locally | In progress |
 | 2026-10-01 | Daily Concept Clinic | DB 02 · OLTP vs OLAP — Two Jobs, Two Shapes | Graded take-home — Duplicates: 8/8 completed, 84% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown)
 [evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-07/daily-concept-clinic/OLTP_ERD.sql](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-07/daily-concept-clinic/OLTP_ERD.sql) |
 | 2026-09-12 | Daily Concept Clinic | DB 02 · OLTP vs OLAP — Two Jobs, Two Shapes | Graded take-home — Statistics: Centre & Spread: 11/11 completed, 68% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
