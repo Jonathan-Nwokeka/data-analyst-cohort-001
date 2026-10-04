@@ -7,7 +7,7 @@
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Day 1: Create the Portfolio Home for This Cohort | Complete | 10 | 24 Jun 2026, 10:03 |
-| Day 2: Install VS Code and Open the Repo Locally | In progress | 2 | 04 Oct 2026, 19:26 |
+| Day 2: Install VS Code and Open the Repo Locally | In progress | 2 | 04 Oct 2026, 19:29 |
 
 ### Day 1: Create the Portfolio Home for This Cohort
 
@@ -26,3 +26,4 @@
 **What I did**
 
 - **Note:** I installed the Visual studio code and cloned the data analyst cohort in the Repository
+- **Built:** I created the following folders in the VS code Notes, datasets, Dashboards, Sql, Python, Screenshots, and Portfolio.
