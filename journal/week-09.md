@@ -36,3 +36,39 @@ How to apply normalization to the model design
 Graded take-home — Statistics: Centre & Spread: 11/11 completed, 68% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown)
 
 - **Support I need next:** More worked examples on this topic
+
+### SQL 06 · Aggregation & GROUP BY
+
+_2026-10-04 · logged 2026-10-04 21:43 UTC_
+
+**Taught**
+
+1) Aggregation & GROUP BY
+2) What Aggregation Does
+3) The 5 Core Aggregate Functions
+i) COUNT (*); Counts every row in the group — including NULLs
+ii) SUM(col), iii) MIN / MAX ,
+iv)  COUNT(col) , v) AVG(col)
+4) GROUP BY
+5) HAVING
+6) COUNT — Three Very Different Behaviour
+7) NULL Behaviour in Aggregates
+8) Common Aggregation Mistakes
+
+**What I now understand**
+
+Aggregation collapses rows into summaries. The 5 core functions are: COUNT(*), COUNT(col), SUM, AVG, MIN/MAX.
+
+Every non-aggregated SELECT column must appear in GROUP BY — or you'll get an error in strict databases
+
+COUNT(*) counts all rows. COUNT(col) skips NULLs. COUNT(DISTINCT col) counts unique values. All three differ.
+
+WHERE filters rows before aggregation. HAVING filters groups after. Confuse them, and you get an error
+
+- **Still unclear:** None
+
+**Evidence**
+
+Graded take-home — Statistics: Position & Relationship: 4/4 completed, 57% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown)
+
+- **Support I need next:** More worked examples on this topic
