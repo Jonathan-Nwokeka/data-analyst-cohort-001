@@ -12,7 +12,7 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 26 Oct 2026, 13:00 | Lesson | Day 1: Profile the Superstore Operational Extract | In progress |
+| 26 Oct 2026, 13:11 | Lesson | Day 1: Profile the Superstore Operational Extract | In progress |
 | 05 Oct 2026, 13:44 | Lesson | Day 1: Define the A/B Test Before Looking at Results | Complete |
 | 05 Oct 2026, 13:44 | Lesson | Day 2: Calculate Group Results | Complete |
 | 05 Oct 2026, 13:44 | Lesson | Day 3: Build a Confidence Interval | Complete |
