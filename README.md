@@ -4,7 +4,7 @@
 
 ![Activity](assets/activity.svg)
 
-**53 days logged &middot; 3 weeks &middot; 1-day streak &middot; last activity 2026-10-04**
+**55 days logged &middot; 9 weeks &middot; 1-day streak &middot; last activity 2026-10-26**
 
 ## Latest Proof
 
@@ -12,12 +12,14 @@ Quick recruiter review path — the newest 1-2 weeks of logged evidence.
 
 | Date | Activity | Topic | Evidence |
 | --- | --- | --- | --- |
-| 2026-10-04 | Daily Concept Clinic | SQL 06 · Aggregation & GROUP BY | Graded take-home — Statistics: Position & Relationship: 4/4 completed, 57% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
-| 04 Oct 2026, 19:29 | Lesson | Day 2: Install VS Code and Open the Repo Locally | In progress |
-| 2026-10-01 | Daily Concept Clinic | DB 02 · OLTP vs OLAP — Two Jobs, Two Shapes | Graded take-home — Duplicates: 8/8 completed, 84% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown)
-[evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-07/daily-concept-clinic/OLTP_ERD.sql](https://github.com/Jonathan-Nwokeka/data-analyst-cohort-001/blob/main/evidence/cohorts/qode-clarity-data-analyst-cohort-001/week-07/daily-concept-clinic/OLTP_ERD.sql) |
-| 2026-09-12 | Daily Concept Clinic | DB 02 · OLTP vs OLAP — Two Jobs, Two Shapes | Graded take-home — Statistics: Centre & Spread: 11/11 completed, 68% (auto-graded in-app; see Cohort Progress -> Daily Concept Clinic for the breakdown) |
-| 24 Jun 2026, 10:03 | Lesson | Day 1: Create the Portfolio Home for This Cohort | Complete |
+| 26 Oct 2026, 12:58 | Lesson | Day 1: Profile the Superstore Operational Extract | In progress |
+| 05 Oct 2026, 13:44 | Lesson | Day 1: Define the A/B Test Before Looking at Results | Complete |
+| 05 Oct 2026, 13:44 | Lesson | Day 2: Calculate Group Results | Complete |
+| 05 Oct 2026, 13:44 | Lesson | Day 3: Build a Confidence Interval | Complete |
+| 05 Oct 2026, 13:45 | Lesson | Day 4: Run or Interpret a T-Test | Complete |
+| 05 Oct 2026, 13:45 | Lesson | Day 5: Separate Statistical From Business Significance | Complete |
+| 05 Oct 2026, 13:45 | Lesson | Day 6: Check Experiment Validity | Complete |
+| 05 Oct 2026, 13:45 | Lesson | Day 7: Write the Campaign Test Recommendation | Complete |
 
 Full journal: [journal/index.md](journal/index.md)
 
