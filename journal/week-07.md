@@ -2,6 +2,18 @@
 
 [← Back to journal index](index.md)
 
+## Lessons — 7/7 complete
+
+| Lesson | Status | Tasks done | Updated |
+| --- | --- | --- | --- |
+| Day 1: Define the A/B Test Before Looking at Results | Complete | 1 | 05 Oct 2026, 13:44 |
+| Day 2: Calculate Group Results | Complete | 1 | 05 Oct 2026, 13:44 |
+| Day 3: Build a Confidence Interval | Complete | 1 | 05 Oct 2026, 13:44 |
+| Day 4: Run or Interpret a T-Test | Complete | 1 | 05 Oct 2026, 13:45 |
+| Day 5: Separate Statistical From Business Significance | Complete | 1 | 05 Oct 2026, 13:45 |
+| Day 6: Check Experiment Validity | Complete | 1 | 05 Oct 2026, 13:45 |
+| Day 7: Write the Campaign Test Recommendation | Complete | 1 | 05 Oct 2026, 13:45 |
+
 ## Daily Concept Clinic
 
 ### DB 02 · OLTP vs OLAP — Two Jobs, Two Shapes
