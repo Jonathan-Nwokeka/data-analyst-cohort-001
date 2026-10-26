@@ -2,12 +2,24 @@
 
 [← Back to journal index](index.md)
 
-## Lessons — 1/2 complete
+## Lessons — 14/14 complete
 
 | Lesson | Status | Tasks done | Updated |
 | --- | --- | --- | --- |
 | Day 1: Create the Portfolio Home for This Cohort | Complete | 10 | 24 Jun 2026, 10:03 |
-| Day 2: Install VS Code and Open the Repo Locally | In progress | 2 | 04 Oct 2026, 19:29 |
+| Day 2: Install VS Code and Open the Repo Locally | Complete | 2 | 04 Oct 2026, 19:30 |
+| Day 3: Install Git and Make the First Commit | Complete | 2 | 04 Oct 2026, 20:30 |
+| Day 4: Connect Qode Clarity Journal Sync | Complete | 2 | 04 Oct 2026, 20:31 |
+| Day 5: Confirm Excel or Google Sheets Is Ready | Complete | 2 | 04 Oct 2026, 20:32 |
+| Day 6: Write Your Evidence Rules | Complete | 2 | 05 Oct 2026, 13:22 |
+| Day 7: Run a Full Setup Rehearsal | Complete | 2 | 05 Oct 2026, 13:23 |
+| Day 1: Open Excel and Protect the Raw Export | Complete | 2 | 04 Oct 2026, 20:29 |
+| Day 2: Turn a Range Into a Named Excel Table | Complete | 2 | 04 Oct 2026, 20:31 |
+| Day 3: Sort by Priority Without Damaging Evidence | Complete | 2 | 04 Oct 2026, 20:31 |
+| Day 4: Filter the Rows That Need Action | Complete | 2 | 05 Oct 2026, 13:22 |
+| Day 5: Name Ranges and Prove the Total | Complete | 2 | 05 Oct 2026, 13:23 |
+| Day 6: Build the First Analyst Evidence Pack | Complete | 2 | 05 Oct 2026, 13:24 |
+| Day 7: Rebuild the Workbook From Memory | Complete | 2 | 05 Oct 2026, 13:24 |
 
 ### Day 1: Create the Portfolio Home for This Cohort
 
